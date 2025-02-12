@@ -21,7 +21,7 @@ The Daymark, seen above the ship, was built in the 1680s, with St Agnes’ light
 
 Gig rowing declined with the end of traditional pilotage, but was revived as a sport with clubs on Scilly, in Cornwall, and now many in England too. Hundreds of crews compete in the annual world championships on Scilly. Some of the islands’ old gigs are restored and are racing still (photo 4).
 
-![[A red and white pilot gig named "Czar" is rowing through the water with a crew of six women pulling in unison. A coxswain stands at the stern, guiding the team as they row past a sandy beach with grass-covered dunes in the background.](website-images/Project-Page/4-czar-womens-crew.jpeg)
+![A red and white pilot gig named "Czar" is rowing through the water with a crew of six women pulling in unison. A coxswain stands at the stern, guiding the team as they row past a sandy beach with grass-covered dunes in the background.](website-images/Project-Page/4-czar-womens-crew.jpeg)
 
 *4: The 1879 gig Czar pulled by a Tresco & Bryher Gig Rowing Club womens’ crew, winners of Scilly’s domestic racing season in 2023 and 2024 (thanks to Aaron Haile and Jonathan Taylor).
 Czar’s original shed, on Great Porth, Bryher, is one of the sites surveyed and scanned as part of the Porths and Gigs project, producing plans and virtual 3D models on this website.*
