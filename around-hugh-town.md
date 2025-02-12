@@ -61,7 +61,7 @@ The virtual 3D models of gig components presented here were made courtesy of And
 
 Planks are made of narrow-leaf elm, making them both durable and flexible, strong and light. They are only ¼ inch thick! This allowed gigs to be carried when needed – it could be a 100m haul up from the sea to the gig sheds at low water, as the project surveys show.
 
-_Nornour_ was kept at Pendrathen, before moving to the new, traditional style sheds at Porth Mellon. Pendrathen was used for pilotage, and transport between the islands, from _c_1759. Old gigs kept there included _Boot_, _Chance_, _Railway,_ and _Whaler,_ and the _Bee_ that ended up on St Agnes. Remains of their houses include Norman’s Shed, a gig shed rebuilt slightly shorter, leaving part of the old wall protruding behind it.
+_Nornour_ was kept at Pendrathen, before moving to the new, traditional style sheds at Porth Mellon. Pendrathen was used for pilotage, and transport between the islands, from c.1759. Old gigs kept there included _Boot_, _Chance_, _Railway,_ and _Whaler,_ and the _Bee_ that ended up on St Agnes. Remains of their houses include Norman’s Shed, a gig shed rebuilt slightly shorter, leaving part of the old wall protruding behind it.
 
 [View the 3D model on Sketchfab](https://sketchfab.com/3d-models/nailing-model-from-the-building-of-nornour-c88acdf0ba1143f58a6e00b082063f04)
 
