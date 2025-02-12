@@ -7,6 +7,18 @@
 *A Sailor's Wedding Party, 1862, by James Clarke Hook (1819-1907). Brighton & Hove Museums, reproduced by kind permission.
 The painting shows gig sheds at Point near the quay at New Grimsby on Tresco, before they fell into ruin, with typical thatched roofs and slipways. Thanks to Graeme Kirkham formerly of CAU for bringing attention to the painting and establishing its date.*
 
+## Introduction
+
+On the Isles of Scilly, seagoing rowing gigs—32-foot boats built from fine elm planks for strength and lightness—once played a vital role in maritime life. These boats carried pilots to ships navigating treacherous waters, rescued lives and cargo from wrecks, and supported coastal industries from kelp harvesting to lighthouse construction.
+
+Though traditional gig rowing declined with the end of pilotage, it has been revived as a thriving sport, with clubs on Scilly, Cornwall, and across England. Today, hundreds of crews compete in the annual world championships on Scilly, with some of the islands' historic gigs still restored and racing.
+
+Scilly’s five main islands hold traces of old gig sheds, some dating back to the 17th century. Recent archaeological discoveries reveal evidence of around 90 sheds at 60 sites, some clustered together. Half of these structures still survive, and six sites—or parts of them—are protected as Scheduled Monuments. These remains tell the story of Scilly’s maritime past, recalling remarkable feats of endurance as gig crews battled stormy seas to save ships and lives.
+
+## The project
+
+Welcome to this exploration of the archaeology of pilot gigs on Scilly, featuring the results of fieldwork conducted in 2024 across all the main islands. This work includes 3D models and plans created at extra-low tide, offering fresh insights into these historic sites. Led by Cornwall Archaeological Unit (CAU), with invaluable support from local groups and individuals, the Porths and Gigs project forms part of the Monument Management Scheme for Historic England and other partners (see Acknowledgements). The project aims to enhance the recording and appreciation of Scheduled Monuments and other gig-related archaeology, particularly those on vulnerable coastal sites affected by erosion and rising sea levels.
+
 ## Acknowledgements and thanks to Project Partners
 The project was by [Cornwall Archaeological Unit](http://cau.org.uk) (CAU), Cornwall Council. The CAU team were Cathy Parkes (project lead), Mark Bowden (survey) and Tom Goskar (scanning and website).
 
