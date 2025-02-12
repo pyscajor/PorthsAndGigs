@@ -23,7 +23,7 @@ _2: Inter-tidal ways at Innisidgen. That seen on the left may be an earlier dran
 
 ![An earthwork with a foreground of dry, bracken-covered terrain leading to a blue sea, with small islands and a rocky outcrop in the distance under a partly cloudy sky.](website-images/St-Marys-Innisidgen/3-innisidgen-gig-shed-5-may-2024.jpg)
 
-_3: Earthwork interpreted as a gig shed site at Innisidgen, with banks on the lines of its side walls and a hollow interior _c_10m (32 feet) long Across the coast path, below, is the slipway, slanting down to the shore, following the same line as the long axis of the base of the shed._
+_3: Earthwork interpreted as a gig shed site at Innisidgen, with banks on the lines of its side walls and a hollow interior c.10m (32 feet) long Across the coast path, below, is the slipway, slanting down to the shore, following the same line as the long axis of the base of the shed._
 
 ![A site map of Innisidgen, St Mary’s, Isles of Scilly, showing boulder beaches, stone features, and an iron pin, with blue arrows marking key locations.](website-images/St-Marys-Innisidgen/4-innisidgen-inter-tidal-zone.jpg)
 
@@ -35,7 +35,7 @@ This is a sloping hollow, the size of a gig, with low banks where its walls stoo
 
 _5: Larger-scale plan of Innsidgen gig shed and the top of its slipway. A narrow path upslope is the end of a route mapped in 1887, connecting the shed to the Helvear/Lenteverne area inland._
 
-The network of ways on the shore here, which was mapped in 1887, can be seen to have been developed for kelping and later seaweed gathering, from the primary way aligned on the gig shed. Branches run along the shore as well as to sea, and there are enlarged clearings at mid-tide mark (**Photo 4**). As Mark Bowden suggests, the enlarged bays may have been used to hold kelp ready to be hauled up for drying and burning. If this network dates from the height of kelping, before _c_1800, the gig shed with its slipway could be 18th century or earlier.
+The network of ways on the shore here, which was mapped in 1887, can be seen to have been developed for kelping and later seaweed gathering, from the primary way aligned on the gig shed. Branches run along the shore as well as to sea, and there are enlarged clearings at mid-tide mark (**Photo 4**). As Mark Bowden suggests, the enlarged bays may have been used to hold kelp ready to be hauled up for drying and burning. If this network dates from the height of kelping, before c.1800, the gig shed with its slipway could be 18th century or earlier.
 
 The terms used for the gig passages vary across Scilly, reflecting the varying heritage of the different islands. They include ‘lake’, on St Mary’s, ‘trackway’ on St Agnes, and ‘drang’ on Bryher (thanks to John Williams, Jof Hicks and Richard Jenkins for information). The _Porths and Gigs_ project uses the term drang as it is a local dialect word. Drang is also used in Scilly and Cornwall to mean natural channels between rock ridges on shores, and by extension to mean alleys in some fishing villages such as Mousehole.
 
