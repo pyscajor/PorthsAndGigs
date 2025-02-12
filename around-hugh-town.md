@@ -51,7 +51,52 @@ An exciting recent discovery, at St Agnes, is part of a gig used as panelling in
 
 _8: Harry Legg with the part of a gig he discovered and identified as the Bee built in 1838, which had been re-used as panelling at St Agnes._
 
+## 3D models
+
 The virtual 3D models of gig components presented here were made courtesy of Andrew Hicks of Porthloo boatyard.
+
+[![Nailing model from the building of Nornour](website-images/Gig-building/9-nailing-model.jpg)](https://sketchfab.com/3d-models/nailing-model-from-the-building-of-nornour-c88acdf0ba1143f58a6e00b082063f04)
+
+**Nailing model from the building of** **_Nornour_** by Gerald Pearne of Looe in 1971 for St Mary’s, demonstrating the gigs’ clinker construction and fastening. It shows the stages of securing planks with copper nails or ‘rivets’. Nails are held inside by ‘roves’ or copper washers, by trimming them and driving them down over the roves. 
+
+Planks are made of narrow-leaf elm, making them both durable and flexible, strong and light. They are only ¼ inch thick! This allowed gigs to be carried when needed – it could be a 100m haul up from the sea to the gig sheds at low water, as the project surveys show.
+
+_Nornour_ was kept at Pendrathen, before moving to the new, traditional style sheds at Porth Mellon. Pendrathen was used for pilotage, and transport between the islands, from _c_1759. Old gigs kept there included _Boot_, _Chance_, _Railway,_ and _Whaler,_ and the _Bee_ that ended up on St Agnes. Remains of their houses include Norman’s Shed, a gig shed rebuilt slightly shorter, leaving part of the old wall protruding behind it.
+
+[View the 3D model on Sketchfab](https://sketchfab.com/3d-models/nailing-model-from-the-building-of-nornour-c88acdf0ba1143f58a6e00b082063f04)
+
+[![Bow rib from the Bonnet](website-images/Gig-building/10-bow-rib-from-1830-gig-bonnet.jpg)](https://sketchfab.com/3d-models/bow-rib-from-the-1830-pilot-gig-bonnet-0b159471723f433c9dc42d60b71ad928)
+
+**Bow rib from 1830 gig** **_Bonnet_**, probably from before she went to Cornwall _c_1954 (Andy Hicks, pers comm.). Ribs were traditionally of oak, so in the bow they could be as thin as this one, 1/2 by 3/8 inch. Layers of paint indicate long use; pilot gigs could be black, or coloured.
+
+_Bonnet_ was kept at Par Beach (Higher Town Bay), St Martin’s, near the sheds there now. She moved to Tresco, then Bryher, where she was kept at Great Porth in the roof of the _Golden Eagle_ shed now a studio, then back to Tresco (Richard Jenkins, pers. comm.).
+
+_Bonnet_ was named in tribute to an islander who waved her bonnet to the gig for luck from Cruther’s (or Gullis) Hill above Par Beach (Stuart Jenkins, pers. comm.) Signalling by waving a jacket or hat was called swaysing, as recorded at the time of the _Delaware_ wreck in 1871. The crew of the _Albion_ of Bryher swaysed from North Hill, Samson, for a second gig to pull over to help save men they’d rescued from a raging sea by carrying their gig all across Samson to reach them.
+
+[View the 3D model on Sketchfab](https://sketchfab.com/3d-models/bow-rib-from-the-1830-pilot-gig-bonnet-0b159471723f433c9dc42d60b71ad928)
+
+[![Board for building a gig](website-images/Gig-building/11-board-for-building-a-pilot-gig.jpg)](https://sketchfab.com/3d-models/board-for-building-a-pilot-gig-e895525e01224072920a1fdf21de2be4)
+
+**Board for building a gig** to the design of the 1838 Peters gig _Treffry_, 32’ long and 4’10” beam. This board was used by Peter Martin to build gigs including _Taran_ for Mount’s Bay (1999) and _Morlader_ for Penryn (2001).
+
+The board allows ‘moulds’ of plywood to be held at stations along the gig’s keel with the stem and transom (bow and stern) timbers rising at its ends. Planks are secured to the profile made by these formers, and ribs, gunwales and thwarts are fixed. 
+
+Besides the skill of William Peters, the success of the St Mawes yard that produced this design may reflect its siting, near Falmouth with its Royal Mail packet and other shipping requiring gigs, and within a day’s sail from Scilly.
+
+Peters was also well-supplied with elm, widespread on the Roseland before elm disease. Mature elm can still be seen on Scilly, not struck by the disease. The islands, anciently wooded as shown by pollen analysis, had few trees by Victorian times and shipyards here imported timber, much of it from Redbridge, Southampton.
+
+[View the 3D model on Sketchfab](https://sketchfab.com/3d-models/board-for-building-a-pilot-gig-e895525e01224072920a1fdf21de2be4)
+
+[![Steering Yoke](website-images/Gig-building/12-steering-yoke-from-emma-louise-gig.jpg)](https://sketchfab.com/3d-models/steering-yoke-of-the-pilot-gig-emma-louise-03be14d1f8c04e7e8a8ffa05f178161d)
+
+
+**Steering yoke of the gig** **_Emma Louise_** built by Peter Martin for St Mary’s in 2004, named after the daughter of artist John Heywood who donated the gig (thanks to Andrew King for information). In the past, new gigs were often given names of ships for which the pilots had provided salvage or rescue work, earning fees that paid for the gig. _Golden Eagle_ refers to the gold dollars paid to Bryher pilots for saving the crew of the American ship _Award_ in 1861.
+
+Yokes are traditional, the steering ropes fixed to their holes allowing the cox holding them to move to different positions and to turn the gig rapidly. They were so called as they resemble the neck yokes of the pairs of oxen used for ploughing in Cornwall and Scilly into the 18th century. 
+
+Rope was manufactured at the height of shipbuilding on Scilly, c.1840-1870, in a long structure at Porthloo, partly restored as a shed. Straw was woven previously to hold the thatch used to roof gig sheds as well as houses. Rope was also shipped in, or salvaged from wrecks.
+
+[View the 3D model on Sketchfab](https://sketchfab.com/3d-models/steering-yoke-of-the-pilot-gig-emma-louise-03be14d1f8c04e7e8a8ffa05f178161d)
 
 **Sources**
 
