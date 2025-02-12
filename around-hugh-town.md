@@ -98,7 +98,7 @@ Rope was manufactured at the height of shipbuilding on Scilly, c.1840-1870, in a
 
 [View the 3D model on Sketchfab](https://sketchfab.com/3d-models/steering-yoke-of-the-pilot-gig-emma-louise-03be14d1f8c04e7e8a8ffa05f178161d)
 
-**Sources**
+## Sources
 
 Jenkins, AJ, 1975. _Gigs and Cutters of the Isles of Scilly_. Integrated Packing Group Ltd. and the Isles of Scilly Racing Committee
 
