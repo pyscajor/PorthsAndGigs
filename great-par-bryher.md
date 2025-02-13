@@ -1,7 +1,15 @@
 # Great Par, Bryher
 ## Sheds of renowned gigs, worked by rival groups of pilots
 
-The _Czar_ is the only historic gig on Scilly that has never been kept away from the islands, and continues to be rowed and raced here today (Tresco & Bryher Gig Rowing Club website) (**Photos 1** & **2**). Built by Peters in 1879, she was originally fitted for seven oars; a Victorian renewal of an old St Mawes tradition, reaching back 400 years, of 7- or even 8-oared gigs, banned in Georgian times for their potential for use by smugglers to evade excise vessels [link to Project Page].
+The _Czar_ is the only historic gig on Scilly that has never been kept away from the islands, and continues to be rowed and raced here today (Tresco & Bryher Gig Rowing Club website) (**Photos 1** & **2**). Built by Peters in 1879, she was originally fitted for seven oars; a Victorian renewal of an old St Mawes tradition, reaching back 400 years, of 7- or even 8-oared gigs, banned in Georgian times for their potential for use by smugglers to evade excise vessels **link to Project Page**.
+
+![A historical black-and-white photograph of the pilot gig Czar with a small sail, navigating choppy waters near the rocky coastline. Six rowers are on board, pulling hard on the oars, with a distinctive stacked rock formation in the background. A cow is barely visible in the water, swimming alongside the gig.](website-images/Bryher-Czar-Great-Porth/1-czar-1910-g13986.jpg)
+
+_1: _Czar_ attended the wreck of the _Minnehaha_ in 1910, saving live cattle, seen here swimming alongside the gig. The cattle were secured by ropes to the thole pins (Fraser Hicks, pers. comm.). Photograph by Gibson **© National Maritime Museum, Greenwich, London**._
+
+![A modern colour photograph of the red and white pilot gig 'Czar' participating in a racing event. The boat is crewed by six rowers in red shirts, with a coxswain at the stern, and other racing gigs visible in the foreground against a backdrop of the open sea and a distant coastline.](website-images/Bryher-Czar-Great-Porth/2-czar-today.jpeg)
+
+_2: _Czar_ racing over a century later; thanks to Aaron Haile and Jonathan Taylor for the photo._
 
 _Czar_ was formerly kept at Great Par, or Porth. Gig sheds once stood in three places, spaced around the north half of the par, serving rival pilotage concerns (**Photo 3**). Dispersed sheds (or clusters of them) elsewhere, as at Peraskin, St Agnes, may again have belonged to different shareholding groups. Sheds were also placed to make use of the relative shelter afforded by corners of beaches.
 
@@ -26,13 +34,13 @@ It is not clear if anything now remains at the double shed site. Comparing the m
 The panorama seen from the _Czar_ shed site takes in the hazardous rocks in the open sea beyond, including Mincarlo near which the _Delaware_ struck (the islet with undulating profile, on the skyline beyond the south side of the opening of the porth) and the taller, steeper Castle Bryher.
   
 
-**1** _Czar_ attended the wreck of the _Minnehaha_ in 1910, saving live cattle, seen here swimming alongside the gig. The cattle were secured by ropes to the thole pins (Fraser Hicks, pers. comm.). Photograph by Gibson **© National Maritime Museum, Greenwich, London**.
+
 
   
 
   
 
-**2** _Czar_ racing over a century later; thanks to Aaron Haile and Jonathan Taylor for the photo.
+
 
   
 
