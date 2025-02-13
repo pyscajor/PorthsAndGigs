@@ -59,7 +59,7 @@ The _Porths and Gigs_ fieldwork here was carried out courtesy of landowners the 
 
 ## 3D models
 
-[The Lake at New Quay, Lidar model/wide angle 3D]
+[![Screenshot of 3D model](website-images/St-Marys-New-Quay/9-New-Quay-LiDAR.jpg)](https://sketchfab.com/3d-models/new-quay-st-marys-isles-of-scilly-lidar-57fa9fc6472f4d248c05316fc9034595)
 
 **New Quay’s ‘Lake’**, cutting through a ‘brow’ of coastal boulders. The name Lake appears on a 1792 map for another gig trackway, at Perconger (Porth Conger) on St Agnes ─ later adopted to serve the coastguard station now the _Turk’s Head_ pub.
 
@@ -67,15 +67,19 @@ This Lidar (light detection) model, like the site plan, was made at extreme low 
 
 Pilots also put out from sandy beaches ─ like nearby Pelistry (_Porth Lister_ or ‘Boat Porth’ in Cornish) where the Morris, Tregear and Williams families kept a shared gig. Tidal ways allowed use of strategic sites otherwise bound by rocks. They even offered greater protection against raiding from the sea, in the early days of pilotage, as their use was dependant on local knowledge.
 
-[The Lake at New Quay, Interactive Nerf model/wide angle]
+[View the 3D model on Sketchfab](https://sketchfab.com/3d-models/new-quay-st-marys-isles-of-scilly-lidar-57fa9fc6472f4d248c05316fc9034595).
 
-**New Quay setting**. This ‘Nerf’ model (combining geometry, texture and lighting data, in a sort of inter-active 3D impressionist painting!) helps reveal the landscape of the site.
+[![Screenshot of 3D model](website-images/St-Marys-New-Quay/10-NeRF-New-Quay.jpg)](https://lumalabs.ai/capture/ecc02153-8476-4590-b68e-a35f6cf5ab80)
+
+**New Quay setting**. This ‘NeRF’ model (combining geometry, texture and lighting data, in a sort of inter-active 3D impressionist painting!) helps reveal the landscape of the site.
 
 To the west on St Mary’s, in front of Helvear Hill with its later pine trees, is Tregear Porth with its smaller drang. The little carn on the skyline past Helvear (with a prehistoric entrance grave) marks Innisidgen ─ another location explored in this website.
 
 The northern off-islands appear in a great arc on the horizon. The former frequency of gigs on this coast reflects its value for communications between islands, as well as pilotage. Scilly’s chaplain, John Troutbeck, noted in 1796 (for Pendrathen, beyond Innisidgen) how it served ‘for the off island people to land at, and others, who may have business on the East part of St Mary’s Island, as well as for the inhabitants of the West part of St Mary’s Island, when they pilot out vessels, or have business at the off-islands, and cannot get home, by means of a contrary wind.’
 
-[New Quay gig shed, sketchfab model]
+[View the interactive photo (NeRF) on Luma AI](https://lumalabs.ai/capture/ecc02153-8476-4590-b68e-a35f6cf5ab80). Click or tap to stop the animation and drag and pinch to explore it.
+
+[![Screenshot of 3D model](website-images/St-Marys-New-Quay/11-New-Quay-gig-shed-walls.jpg)](https://sketchfab.com/3d-models/new-quay-gig-shed-349b2e9b5ba64960bb9503f952804d99)
 
 **New Quay’s south-eastern gig shed**; model of the insides of the walls (partly built into the slope behind and part covered by ivy and boats in the interior).
 
@@ -84,6 +88,8 @@ The slight bulging of the shed made more space to load or maintain a gig, while 
 Roofing with salvaged timber and rope thatch was traditional, for sheds as for island houses. Nets of rope holding the thatch were fixed to pegs in wall tops. Peg holes, even actual pegs made of bone, remain in places. They could survive here under ivy, as the walls stand to full height or near it.
 
 Drill holes are visible in the massive front slabs. The double doors were hinged on iron hangers in such holes, or pivoted in sockets cut in slabs laid in the floor.
+
+[View the 3D model on Sketchfab](https://sketchfab.com/3d-models/new-quay-gig-shed-349b2e9b5ba64960bb9503f952804d99).
 
 ## Sources
 
