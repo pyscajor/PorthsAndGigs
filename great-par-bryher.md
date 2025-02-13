@@ -68,6 +68,52 @@ The OS map of 1888, highly accurate and detailed, marks a feature at the north e
 It is not clear if anything now remains at the double shed site. Comparing the modern map and the 1888 survey, it appears that the gable left in 1888 may have stood just behind the line of the modern sea defences (where the ground has been dug out and then built up higher with rock armour) ─ so there could be some possibility of survival of the base of that gable.
 
 The panorama seen from the _Czar_ shed site takes in the hazardous rocks in the open sea beyond, including Mincarlo near which the _Delaware_ struck (the islet with undulating profile, on the skyline beyond the south side of the opening of the porth) and the taller, steeper Castle Bryher.
-  
 
+## 3D models
+
+### Czar gig shed
+
+[![Screenshot of 3D model](website-images/Bryher-Czar-Great-Porth/12-Czar-gig-shed-3d-model.jpg)](https://sketchfab.com/3d-models/czar-gig-shed-bryher-isles-of-scilly-dbf8ec2c38464f30a78ea0b9c3867942)
+
+[View the 3D model on Sketchfab](https://sketchfab.com/3d-models/czar-gig-shed-bryher-isles-of-scilly-dbf8ec2c38464f30a78ea0b9c3867942). Click the annotations to find out more about the different parts of the complex. The annotations are included below for reference.
+
+**(1)** The interior of _Czar_’s shed can be seen, and felt underfoot, despite vegetation growth, forming a distinct strip south of slipway (4). The actual floor lies under blown sand. The _Eagle_ shed nearby had beach cobble flooring (Richard Pearce, pers. comm.)
+
+A winch in the grass here is unrelated to the use of the shed. Early gigs were broader and heavier, but the traditional fine elm planking used also in today’s racing gigs (like that in the model from _Nornour_) meant they could be carried by a crew of 7 ─ each bearing a load of over 1 cwt or 50 kilos.
+
+The track just behind the sheds is the route used to carry Albion nearly half a mile to launch at Rushy Bay at the start of the 1871 rescue. It had developed to serve the sheds, linking them to hilltop lookouts and to the dwellings, concentrated to the east in 1792 but established here at Pool before 1888 as old maps show. _Czar_ was sometimes secured to a tree east of the track, to prevent damage when gales struck at high tides (Gerald Langdon, pers. comm).
+
+**(2)** Side wall of the _Czar_ shed. This is clearer than the north wall against slipway (4). It rises a little higher, and has more stone visible. The bases of the walls, like the floor, are buried in stabilised blown sand and tumbled stones.
+
+As shown by the mid-20th century photo of this site, originally the sides of the shed rose to _c_1.5m or shoulder high. Their stonework appears to have been more irregular than that seen in the sheds seen in another of the _Porths and Gigs_ models at New Quay, St Mary’s, still near-intact.
+
+Sheds in the past, like those of today, would have had gear stored against their walls, on wall tops, and hanging in the roof timbers or laid on planks across them. Old houses and barns had neat ‘keeping places’ built into their walls, as can be seen on Samson, but these were probably not usual in early gig sheds with their less regular stonework. A ruined gig shed on the Neck of Samson with a small timber lean-to store at one end, _c_200 years old, is explored in the _Porths and Gigs_ report.
+
+**(3)** The lack of an inner end wall is part of the design of the shed, known for having had double doors at each end. This design may have been innovative for a gig shed. Sheds opening only to landward are known to occur, where winds laden with sand could hamper launch and recovery ─ as can be seen for instance from the walling of a roofless shed at Green Porth, Old Grimsby, Tresco (in the project report).
+
+St Mary’s first lifeboat house, founded in 1874, now the library, had doors at both ends, to allow launching at Town Beach behind as well as Porth Cressa in front. Possibly this design feature was adopted from there for this shed, if it was newly built (or rebuilt) when the _Czar_ was made in 1879. Here it would let the _Czar_ pass through whichever end was better to use in the weather and sea conditions, as well as helping to move her back from the shed to be secured away from storm surges if needed.
+
+The shed is remembered as having borne the name _CZAR_ on a timber above its doors (Richard Pearce, pers. comm.).
+
+**(4)** This concrete slipway alongside replaces an original slip; the hollow way running to it has possible stone surfacing and, like the shed, was mapped in 1888. It was linked to the double doors at the back of the gig shed via the track there.
+
+On the beach immediately west of the shed, stone edging, indicating a separate front slipway, has been visible at times. This may now have gone, as sea defences in this area have been renewed.
+
+Further down, the beach is largely free of boulders, and the map of 1888 shows it was similar at that time. This meant there was no need to make a drang to pass through the inter-tidal zone.
+
+Some other shores, close to the open sea, change greatly with shifting beach material. Porth Minick, St Mary’s, has no signs of use by gigs, despite proximity to Old Town. Its sand is quite recent, not shown on the maps of 1906 or earlier, and its Cornish name means ‘Stony Porth’. It may be that boulders were so dense and mobile there that clearing a passage for gigs was not feasible.
+
+### Czar shed and setting
+
+[![Screenshot of interactive](website-images/Bryher-Czar-Great-Porth/13-Czar-gig-shed-nerf.jpg)](https://lumalabs.ai/capture/f95013a5-f196-416f-893f-59e3ff790c26)
+
+**‘NeRF’ model of the setting of the** **_Czar_** **shed on Great Porth**. 
+
+[View the interactive photo (NeRF) on Luma AI](https://lumalabs.ai/capture/f95013a5-f196-416f-893f-59e3ff790c26). Click or tap to stop the animation and drag and pinch to explore it.
+
+To the south is the red-tiled roof of the _Golden Eagle_ shed restored as a studio, once thatched like this shed and similar in age.
+
+On the far south side of Great Porth, a thin neck of land runs out west to Heathy Hill. Beyond the neck, on Stony Porth is the possible site of a shed with some bits of red tile. An old photo shows a feature resembling a roof there (Richard Pearce, pers. comm.). If a gig shed, this was not standing _c_1888-1906 as the maps of those dates do not show it (see the project report for this and other possible sites).
+
+To the north was the earlier shed of the _Albion_, renowned for the 1871 _Delaware_ rescue (thanks to Richard Jenkins for information). It was gone before 1888, but part of its gable end remained in living memory (Richard Pearce, pers. comm.). It stood beyond a concrete drain, which runs from the Pool behind that gave its name to the hamlet here established in the age of pilotage.
 
