@@ -5,38 +5,57 @@ New Quay, facing the eastern approach to Scilly, has been used by gigs for some 
 
 The sheds are early in style. Their stonework is barely coursed, and the walls bulge out in places (**Photo 1**). The long sides curve out near their centres, making the sheds slightly boat-shaped in plan. Sheds have imposing doorways. Bulky upright slabs form their openings, to either side, and these have slanting front faces that project forwards as they rise, with eye-catching effect.
 
+![Plan of New Quay showing the 'drang' bend from the top right of the plan to the lower middle right](website-images/St-Marys-New-Quay/1-new-quay-colour-plan.jpg)
+
+_1: Plan of New Quay, with gig sheds clustered around the head of the slipway to the Lake._
+
 In contrast, the small, high gable end windows, more irregular and made of smaller slabs, are meant to give ventilation and a bit of light, rather than to be seen (**Photos 2** and **3**). The floors are sloping, dug into the slope as necessary to fit the sheds into the coastal slope. A few sheds seem to have rough paving, and in some, the inner end walls incorporate outcropping bedrock.
+
+![A dry-stone wall built from large, irregular granite blocks, with a tall vertical stone forming the side of a doorway. Vegetation is growing around the structure.](website-images/St-Marys-New-Quay/2-se-shed-doorway-new-quay-jul-2024.jpg)
+
+_2: Imposing east side to the doorway of the gig shed furthest south east at New Quay, with one of the shorter but still original boat sheds beyond (fitted with modern sheet roof and doors)._
+
+![A dry-stone wall constructed from variously sized granite stones, with a small window-like opening partially filled with fallen rocks. A red-and-white scale pole stands in front, and ferns and ivy grow among the stones.](website-images/St-Marys-New-Quay/3-se-shed-gable-end-window-new-quay-jul-2024.jpg)
+
+_3: Traditional gable end opening for some light and ventilation, south east gig shed, New Quay._
 
 A monumental drang was made here, passing through a ‘brow’ of boulders (**Photo 4**). This was named the ‘Lake’ or ‘Creek’ (John Williams, pers. comm.). It is a remarkable 80m long. Gigs would seem to have been carried along it, not dragged, as the base is bedrock rather than sand (Fraser Hicks, pers. comm.). Original parts of its walling have an early character, like the gig sheds it served, with stones set vertically like those in Scilly’s oldest piers (**Photo 5**).
 
+![A channel leading to the sea, flanked by stone revetments covered in seaweed. The calm water reflects the blue sky and white clouds, with distant islands visible on the horizon.](website-images/St-Marys-New-Quay/4-creek-new-quay-may-2024.jpg)
+
+_4: New Quay’s ‘Lake’ or drang passing through the stones of the Brow, on a rising tide. On the horizon are Samson and Bryher (ahead) and Tresco (to the right)._
+
+![A long dry-stone revetment made of rounded boulders, running alongside the sandy channel at low tide covered in seaweed. A rusty chain hangs from the wall, and in the background above the sloping slipway, there are the gig sheds.](website-images/St-Marys-New-Quay/5-creek-revetment-may-2024.jpg)
+
+_5: North side of the long straight inner reach of the Lake. Beyond the tumbled stone facing in the foreground is original style facing with ‘pitched’ or vertical stones (near the hanging chain)._
+
 As the gigs here could only work out of the Lake, their sheds were bunched closely around the slipway above it. A primary shed, aligned on the slip, formerly extended back beyond its present inner end which now contains a bench (**Photo 6**). More gig sheds were added, making 5 or even 6, plus a couple of smaller boatsheds. An access track from the east was left between sheds, just wide enough for the boat crews and pack animals (**Photo 6**).
+
+![Two small boats on wheeled trailers rest on a grassy area near a wooden shed and a dry-stone wall. The left boat is grey and fibreglass, while the right boat is white with blue trim and has fenders attached to its side.](website-images/St-Marys-New-Quay/6-new-quay-gig-sheds-on-e-mar-2019.jpg)
+
+_6: Gig sheds on the east at New Quay. The stone in the foreground, left, with rope tied on, marks the front end of the original gig shed levelled into the slope below (which formerly ran on behind the pallet bench inside it). Behind the right hand boat is the early path entering the site._
 
 Like other drangs, the Lake can be strewn with rocks by stormy seas. Parts of its sides have been rebuilt as necessary in order to keep it open. The Williams family worked on a major restoration shown in an old photo (**Photo 7**). This view also captures the lost rope-thatch roofs and boarded fronts of the gig sheds, and the lines used for securing boats within the Lake.
 
+![A historical black-and-white photograph of a granite-lined slipway with several people standing among moored boats. A wooden pole with ropes and pulleys is set up for lifting stones, with granite walls and gig sheds in the background.](website-images/St-Marys-New-Quay/7-new-quay-photo-courtesy-mr-williams.jpg)
+
+_7: View of New Quay from the Lake, probably early 20th century, courtesy of Mr Williams. Repair of the sides of the gig passage, using a crane pole to lift stones, is under way._
+
 Gigs kept here include _Elaine_ (John Williams, pers. comm.) and in earlier times the _Franklin_. _Elaine_, 5-oared, was built by Thomas of St Ives for Israel Hicks of St Agnes for Round Island lighthouse relief work. She was sold to Jack Thomas of St Mary’s, and ended smashed up in a gale at Porth Cressa in 1958. _Franklin_ was a New York paddle-steamer of 1848 (wrecked near her home port in 1854). She made a transatlantic crossing in 12 days and 10 hours. Could the gig have been named by the pilots in memory of this phenomenal ship, after they encountered her?
 
-Later in the 20th century, parts of two gig sheds, and one of the smaller boatsheds, were re-roofed. A timber shed was added on the west, adapting the earlier site of a few small stores. The access track from the west was already wide enough for a cart when the 1887 OS map was made, and like the slipway it has some old rough paving visible (**Photo 8**).
+Later in the 20th century, parts of two gig sheds, and one of the smaller boatsheds, were re-roofed. A timber shed was added on the west, adapting the earlier site of a few small stores. The access track from the west was already wide enough for a cart when the 1887 OS map was made, and like the slipway it has some old rough paving visible (**Photos 8a & 8b**).
+
+![A red-and-white survey pole stands in front of a granite dry-stone wall covered in thick green vegetation, with a shed visible in the background. The ground is grassy with some dried bracken and stones once part of the paving.](website-images/St-Marys-New-Quay/8a-new-quay-west-access-track-paving-jul-2024.jpg)
+
+_8a: Rough paving on the track to New Quay from the west, passing the central gig shed’s corner_
+
+![A red-and-white survey pole lies on the ground above a stone-paved slipway leading to the water. The slipway is bordered by a dry-stone revetment covered in lichen and succulent plants, with a black tyre visible further along the shore.](website-images/St-Marys-New-Quay/8b-new-quay-slipway-paving-jul-2024.jpg)
+
+_8b: Rough paving on the slipway which is now partly renewed with concrete and partly grassy_
 
 Continued use for boats on a small scale has helped to maintain the site and preserve the memory of its traditions. One local story tells that the Lake was once defended using pitchforks against people trying to land (John Williams, pers. comm.) Given the age of the site, and its location on the edge of Scilly away from its town and garrison, this could well be a memory of a raiding episode, perhaps during a period of wartime several centuries ago.
 
 The _Porths and Gigs_ fieldwork here was carried out courtesy of landowners the Duchy of Cornwall, and with assistance from present-day users of the site.
-
-
-**1** Plan of New Quay, with gig sheds clustered around the head of the slipway to the Lake.
-
-**2** Imposing east side to the doorway of the gig shed furthest south east at New Quay, with one of the shorter but still original boat sheds beyond (fitted with modern sheet roof and doors).
-
-**3** Traditional gable end opening for some light and ventilation, south east gig shed, New Quay.
-
-**4** New Quay’s ‘Lake’ or drang passing through the stones of the Brow, on a rising tide. On the horizon are Samson and Bryher (ahead) and Tresco (to the right).
-
-**5** North side of the long straight inner reach of the Lake. Beyond the tumbled stone facing in the foreground is original style facing with ‘pitched’ or vertical stones (near the hanging chain).
-
-**6** Gig sheds on the east at New Quay. The stone in the foreground, left, with rope tied on, marks the front end of the original gig shed levelled into the slope below (which formerly ran on behind the pallet bench inside it). Behind the right hand boat is the early path entering the site.
-
-**7** View of New Quay from the Lake, probably early 20th century, courtesy of Mr Williams. Repair of the sides of the gig passage, using a crane pole to lift stones, is under way.
-
-**8** Rough paving on the track to New Quay from the west, passing the central gig shed’s corner (left): and on the slipway which is now partly renewed with concrete and partly grassy (right).
 
 ## 3D models
 
