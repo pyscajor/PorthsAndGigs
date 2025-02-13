@@ -65,9 +65,71 @@ Possibly the Agnes gig was named for Cetewayo after her crew provided pilotage t
 
 Islanders will have known Cetewayo by reputation also. Admiral Sir Housten Stewart, Commander-in-Chief of Devonport, took the King in his yacht _Vivid_ to see a gunnery ship and factory before he left Plymouth (_ibid_). The following month the Admiral promoted to flag-lieutenant A.H. Smith Dorrien, of the Tresco family, specifically for his services in the Zulu War (_Cornishman_, October 19 1882, 5).
 
+## 3D Models
 
+[![Screenshot of 3D model](website-images/St-Agnes-Peraskin/11-Porth-Askin-3D-model.jpg)](https://sketchfab.com/3d-models/porth-askin-st-agnes-isles-of-scilly-50ad2cc6bba846d097c150b52eb3fa9f)
+
+[View an interactive model of Porth Askin / Peraskin on Sketchfab](https://sketchfab.com/3d-models/porth-askin-st-agnes-isles-of-scilly-50ad2cc6bba846d097c150b52eb3fa9f). Click the numbered annotations to learn more. The text from these annotations is included below.
+
+**Annotations**
+
+**(1)** Early gig shed on the south. This shed is a turfy ruin, built against natural rocks as shown in a separate model. It was made, used, and reduced to slight banks, all before 1888, when it went unseen by surveyors making the detailed OS map.
+
+It could be that use of a shed ceased, out of distress and respect, after loss of a gig’s crew at sea. In 1822 Woodley noted such a disaster had occurred ‘some years before’. Two men of St Agnes, part of a crew rescuing survivors from a wreck on Scilly Rock, were drowned when the gig overturned. Some sheds may have fallen out of use when pilotage was controlled by licensing (of pilots rather than gigs) from 1810.
+
+In 2019 this shed was found and planned by visiting archaeologists Tom and Elisabeth Greeves. The _Porths and Gigs_ survey, made at extra low tide, shows how it relates to the southern gig trackway (number 6 on the model). The OS surveyors did find and plot this trackway, in 1888, indirectly adding to the evidence of an early date for the shed used with it.
 
   
+
+**(2)** Later sheds clustered at the north east corner of the porth. Sheds 2 and 3 formed a pair, aligned on another gig trackway at number (7). This double shed is now a Scheduled Monument. In 1888 it had no roof, but its long walls were near-intact, as shown by the map of that date.
+
+These sheds, facing west into prevailing winds, have linear banks of sand blown through them, as well as others accumulated along the side walls. Another bank runs roughly parallel outside Shed 2, on the south. This may mark the end of an old route to Peraskin across Wingletang Down, worn down by pack animals or carts brought here to carry freight or salvage brought in by the gigs.
+
+There are no clear signs on the ground of inner end walls to the double shed. They could again be shrouded in sand. However, the OS found none back in 1888. Possibly these sheds had doors at each end, so their gigs could be carried across the 100m ‘neck’ of the headland behind to launch to the east at Beady Pool if conditions were better there.
+
+  
+
+**(3)** This shed is Scheduled together with Shed 2 alongside. Both have accumulated blown sand since the roof was lost before 1888. Here, there are also some displaced stones, perhaps once intended for re-use.
+
+Some double sheds started single, as at Little Cove Vean, St Agnes (where the second one is shorter). Others appear built as a pair, like those mapped as one block in 1887 at Town Beach, St Mary’s (where Golden Bay Mansions now stands; Alfred Trenear, pers. comm.)
+
+Possibly original pairs were built for organisations like Lloyd’s who kept their _Lloyds White_ and _Lloyds Green_ gigs at Town Beach. Other sheds may have been doubled, when pilots bought a second gig.
+
+A St Agnes gig _Wasp_ appears at Peraskin on an old painting (Patrick Bird, pers. comm.). The _Bee_ was apparently based on St Agnes by 1841 when she went out to the wreck of the _Thames_. (See ‘Archaeology of the building of pilot gigs’ page for remains attributed to the _Bee_ herself.) Could these two gigs, with their related names, have been housed here?
+
+  
+
+**(4)** This shed was built after the pair on its south. The front of its south wall protrudes slightly across that of the north wall of Shed (3). It stayed in use later too, being shown as roofed and labelled Boat House on the 1888 map. However, it was just a shell when that map was revised in 1906.
+
+The shed was re-discovered by Teän Roberts during the _Porth and Gigs_ survey. It has low banks where its walls were, with some stones still in place. Like many old sheds its base has a regular slant, which helps identify its extent. Sloping floors meant steeper or rockier sites could be used with minimal groundworks, and may have helped to speed launching.
+
+Richard Gillis of Newquay recorded some of the lore of gig launching at speed including at night. Rivalry for pilotage at Falmouth and St Mawes, he was told, led to a crew going to launch without boots to avoid alerting others. On Scilly, he says, oars were marked with notches, so their rowing position numbers could be identified more easily in the dark.
+
+  
+
+**(5)** Northern gig shed. This shed is Scheduled, like double shed (2) and (3). Parallel with Shed (4), it may be of a similar date, _c_1880 if newly built for the historic gig it’s linked to (below). Also like (4) it still had a roof when the 1888 map was made. However, it was soon reduced and the 1906 map showed nothing here.
+
+This shed is identified locally as having housed the old gig _Cetewayo_ (Patrick Bird and Tristan Hick, pers. comm.) The main Peraskin page gives stories of this gig, famed for her speed, and of her namesake, the Zulu King famous in Britain around 1882. A separate 3D model presents the structural remains here, clearer than those of the sheds to the south.
+
+Possibly _Cetewayo_ was moved around 1900 to Shed (2), as that shed appears from the map evidence to have been kept up later. Gigs are known to have been moved in the past between sheds, in the same porth or at another, on occasion, following storm damage or other changes; as well as being sometimes sold on to another island’s pilots.
+
+  
+
+**(6)** South drang or trackway. This way is fairly choked with stones and boulders, and cloaked by seaweed growing on the stones. It may have ceased to be maintained relatively early; shed (1) which it served fell out of use well before 1888.
+
+The sea has displaced its revetments, or covered them in loose stones. Its approximate span can be seen though, as the layer of stones filling it is less thick than the natural boulder bed alongside.
+
+The junction of this trackway and the one that served the northern sheds (7) is intriguing. As this way kinks at the junction, it might have been joined on to (7), making it later in date. This would imply that one or more of the northern sheds, aligned with (7), were earlier in origin too.
+
+However, the makers of the ways had to route them to avoid the larger inter-tidal natural rocks that are a feature of Peraskin. It may be that the seemingly primary north trackway was actually joined on to this southern one which kinked to get around rock too massive to move.
+
+  
+
+**(7)** North drang or trackway. This is among the clearest of Scilly’s drangs, probably because it was kept open well into the 1900s for the use of the old _Cetewayo_.
+
+Some of its facing stones, set up by the pilots between the larger natural boulders to hold back the beach rocks, can be seen standing _in situ_. Others may be still in place under shifted stone and thick seaweed. This facing is marked in black on the site plan, like that visible in places in the gig shed walls especially at shed (5). The more massive, rounded boulders, protruding even at higher tides, determined the positioning of the trackways and so of the gig sheds.
+
+At extreme spring tides, as when the _Porths and Gigs_ fieldwork took place, the full extent of the trackway is revealed; together with the prolific seaweed and marine life harbouring in it that help make this area a Site of Special Scientific Interest. As elsewhere on Scilly, with the passage of time many archaeological sites become rich in ecology as well as historical meaning.
 
 
   
