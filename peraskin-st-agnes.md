@@ -67,6 +67,8 @@ Islanders will have known Cetewayo by reputation also. Admiral Sir Housten Stewa
 
 ## 3D Models
 
+### Porth Askin / Peraskin
+
 [![Screenshot of 3D model](website-images/St-Agnes-Peraskin/11-Porth-Askin-3D-model.jpg)](https://sketchfab.com/3d-models/porth-askin-st-agnes-isles-of-scilly-50ad2cc6bba846d097c150b52eb3fa9f)
 
 [View an interactive model of Porth Askin / Peraskin on Sketchfab](https://sketchfab.com/3d-models/porth-askin-st-agnes-isles-of-scilly-50ad2cc6bba846d097c150b52eb3fa9f). Click the numbered annotations to learn more. The text from these annotations is included below.
@@ -131,18 +133,31 @@ Some of its facing stones, set up by the pilots between the larger natural bould
 
 At extreme spring tides, as when the _Porths and Gigs_ fieldwork took place, the full extent of the trackway is revealed; together with the prolific seaweed and marine life harbouring in it that help make this area a Site of Special Scientific Interest. As elsewhere on Scilly, with the passage of time many archaeological sites become rich in ecology as well as historical meaning.
 
+### Peraskin Gig Shed (1)
 
+[![Screenshot of 3D model](website-images/St-Agnes-Peraskin/12-gig-shed-1-peraskin.jpg)](https://sketchfab.com/3d-models/gig-shed-1-porth-askin-st-agnes-scilly-0b05bd611a3a4409a2a7ff3ad15a72c4)
+
+[View this 3D model on Sketchfab](https://sketchfab.com/3d-models/gig-shed-1-porth-askin-st-agnes-scilly-0b05bd611a3a4409a2a7ff3ad15a72c4).
   
+This long-lost shed, gone before 1888, was built against two natural rocks rising to head height. These boulders have solution basins worn in their tops by centuries of weathering. 
 
+Wingletang Down, above Peraskin, is one of Scilly’s most dramatic ‘rockscapes’. It has hundreds of outcrops and carns with spectacular shapes and basins. There are dozens of Scheduled Monuments, including Early Bronze Age entrance graves and cairns sited like the gig sheds partly in response to the natural rocks.
+
+The two boulders here have fairly vertical sides, used to form the shed’s inner end with masonry filling the gap between them. Many old structures on Scilly, from barns to fortifications, incorporate outcropping rocks where these stood convenient for use.
+
+The banks where the side walls stood run half way to the present head of the beach. The earthwork appears to be a typical ruined gig shed ─ just large enough for a gig at 10 paces long and (allowing for wall tumble) 3 paces wide inside.
   
+### Peraskin Gig Shed (5)
 
+[![Screenshot of 3D model](website-images/St-Agnes-Peraskin/13-gig-shed-5-peraskin.jpg)](https://sketchfab.com/3d-models/gig-shed-5-porth-askin-st-agnes-scilly-420d7b70cb884f8b91b20c3d79f27365)
 
-  
+[View this 3D model on Sketchfab](https://sketchfab.com/3d-models/gig-shed-5-porth-askin-st-agnes-scilly-420d7b70cb884f8b91b20c3d79f27365).
 
+This shed, attributed to _Cetewayo_, is also a Scheduled Monument. It is listed by Historic England as being ‘At Risk’. Its front end has been destroyed by the sea. It has also been worn down by several strands of the coast path, which run across it.
 
+Due to the erosion, the walls are more exposed towards the front, They are narrow and regular compared to those of early sheds like New Quay’s. Their width is more standard, _c_0.9m, and they were built up in courses. The wall cores are the traditional subsoil, or ram, however.
 
-  
+There is no trace of a slip, yet the site is several metres above the beach. Perhaps timber ‘ways’, were laid here. Ways are known to have been used at the shed of the _Golden Eagle_ of similar date (1870) at Great Porth, Bryher, restored as a studio (thanks to Richard Pearce for information).
 
-  
-
+This monument, with its clear walling and its gig passageway below (7), gives a strong sense of how the old _Cetewayo_ was housed and worked by the pilots, just six generations ago.
 
