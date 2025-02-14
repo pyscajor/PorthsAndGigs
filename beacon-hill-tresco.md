@@ -47,35 +47,23 @@ The Beacon Hill scanning was carried out courtesy of landholders the Tresco Esta
 
 ## 3D models
 
-[Lookout, Sketchfab model ─ **NB** Please add 2 more numbered points of interest to the existing one on the model. The 2 screenshots below indicate the points for numbering.]
+[![Screenshot of 3D model](website-images/Tresco-Beacon-Hill/7-Beacon-Hill-3d-model.jpg)](https://sketchfab.com/3d-models/beacon-hill-tresco-e1932f6044404ffabdfca94ec9168b4f)
 
-  
+[View the 3D model on Sketchfab](https://sketchfab.com/3d-models/beacon-hill-tresco-e1932f6044404ffabdfca94ec9168b4f) where you can click the annotations to find out more about the different parts of the complex. The annotations are included below for reference.
 
-[Top of model. The number is on the secondary wall]
-
-  
-
-  
-
-[NE side of model. The number is for a drill hole (arrowed)] 
-
-(1) Steps are built into the lookout, so watchers could climb this south, lee side. In the 1970s, when vegetation was lower, some walling, perhaps part of a lean-to shelter, was seen at ground level. The platform, faced with granite slabs and filled with ram (subsoil) and rubble stone, is 2m high.
+**(1)** Steps are built into the lookout, so watchers could climb this south, lee side. In the 1970s, when vegetation was lower, some walling, perhaps part of a lean-to shelter, was seen at ground level. The platform, faced with granite slabs and filled with ram (subsoil) and rubble stone, is 2m high.
 
 With the extra height, significantly more sea appears above Castle Down. As the 360° panorama shows, the view takes in parts of all the main islands; as well as the closer islets of Northwethel, St Helen’s, and Teän, with Round Island and its lighthouse behind them.
 
 Skyline sites include Telegraph on St Mary’s, marked by its modern mast. The stone tower there was built before the time of the telegraph, in the early 19th century, to support a semaphore mast with wooden arms, mounted on its roof. The semaphore replaced the Napoleonic flagpole station near the Daymark on St Martin’s, visible from that island’s early lookout at Higher Town shown in another 3D model, which unlike this Tresco site used a natural carn.
 
-  
-
-(2) Several facing stones, on the north east side of the platform, have marks showing they were cut rather than simply natural ‘moorstones’. CAU surveys elsewhere have found that ‘broad drill marks’ like this, or BDMs as they’re known, were commonly used for splitting stone, later than ‘wedge marks’, and before ‘narrow drill marks’. As some splitting marks occur in documented buildings, they can be dated, and this type is generally early-mid 19th century. 
+**(2)** Several facing stones, on the north east side of the platform, have marks showing they were cut rather than simply natural ‘moorstones’. CAU surveys elsewhere have found that ‘broad drill marks’ like this, or BDMs as they’re known, were commonly used for splitting stone, later than ‘wedge marks’, and before ‘narrow drill marks’. As some splitting marks occur in documented buildings, they can be dated, and this type is generally early-mid 19th century. 
 
 One of the other BDMs here is in a stone near the base of this same revetment, so the lookout was probably refurbished at some point during that period, most likely after 1822 since Woodley described the site as ruinous at that date. 
 
 The re-building of the lookout was probably done for the Preventives, or Customs and Excise Service, who had taken over the site in Woodley’s day to help detect smuggling vessels, including gigs. By the time of the OS map of 1887, which labels the site as ‘Disused’, smuggling on Scilly was largely suppressed.
 
-  
-
-(3) Two rows of stones run across the top of the platform, back from the edge, towards the north side. The straighter edges of the stones are aligned, forming the opposing faces of a wall (which had a ram core, part weathered away).
+**(3)** Two rows of stones run across the top of the platform, back from the edge, towards the north side. The straighter edges of the stones are aligned, forming the opposing faces of a wall (which had a ram core, part weathered away).
 
 The stones resemble those of the outer revetment, but rise from a tumbled part of it, and the walling is less regular than the facing. This indicates the wall relates to the later phase of the lookout _c_1822-1850, replacing its original north side presumably to save work. When full height, it could have given shelter to the Preventives, who may also have had a roofed lean-to refuge against the platform, accessible down the steps.
 
