@@ -37,7 +37,7 @@ At St Mary’s present boatyard, at Porthloo, parts of old gigs replaced during 
 
 _6: Andrew Hicks with parts from past repairs to the Czar - a knee that held the no. 1 thwart, and a piece with thole pin holes from under the gunwale at one of the rowing positions._
 
-Pieces from pilot gigs were preserved by other builders too, notably Ralph Bird of Devoran. St Agnes’ new racing gig, _Cetawayo_ **link to Peraskin page** has laminated wood conserved from a different old gig, recorded by name, fitted in each section (builder Patrick Bird, pers. comm.).
+Pieces from pilot gigs were preserved by other builders too, notably Ralph Bird of Devoran. St Agnes’ new racing gig, [_Cetawayo_](peraskin-st-agnes.md) has laminated wood conserved from a different old gig, recorded by name, fitted in each section (builder Patrick Bird, pers. comm.).
 
 Archaeology could reveal more about gig building and their materials, predominantly elm (**Photo 7**). Their age could be investigated by tree-ring pattern dating or by oxygen isotope analysis (Cathy Tyers, Historic England, pers. comm.). Elm cut for boatbuilding is sometimes found buried in mud, in the Fal estuary near St Mawes. Gig builders, like the Peters, would season timber in the creeks for 4 or 5 years. On Scilly, archaeological remains of gigs themselves could potentially survive, through burial in sand, for example. As historic maps show, sites of many gig sheds now lie under dunes, like a whole group on the west of the green at Periglis, St Agnes.
 
