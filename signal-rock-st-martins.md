@@ -61,35 +61,29 @@ _8: Signal Rock or News Rock _c_1836-1881, as shown in a painting included in a 
 
 ## 3D model
 
+[![Screenshot of 3D model](website-images/St-Martins-Signal-Rock/9-Signal-Rock-3d-model-screenshot.jpg)](https://sketchfab.com/3d-models/signal-rock-st-martins-isles-of-scilly-f9f50d327c924f32ab3f78fea9f0979b)
 
+[View the 3D model on Sketchfab](https://sketchfab.com/3d-models/signal-rock-st-martins-isles-of-scilly-f9f50d327c924f32ab3f78fea9f0979b) where you can click the annotations to find out more about the different parts of the complex. The annotations are included below for reference.
 
-[Sketchfab model ─ Please re-number points of interest, leaving 4 in total; (1) Groove for pole (was 4)/(2) Drill hole with pin (was 6)/(3) Old splitting off rock (was 2)/(4) Graffiti (was 7)]
-
-(1) A feature in the face of the carn, on the north side less often exposed to gales, appears to be an old cut. This is a vertical, regular groove running down from the top, near the centre. It passes through several natural layers of rock, crossing the joint between them, to end at a small ledge below. On sunny days it is picked out clearly when the light catches it from one side. 
+**(1)** A feature in the face of the carn, on the north side less often exposed to gales, appears to be an old cut. This is a vertical, regular groove running down from the top, near the centre. It passes through several natural layers of rock, crossing the joint between them, to end at a small ledge below. On sunny days it is picked out clearly when the light catches it from one side. 
 
 In view of the name Signal Rock, this is interpreted as a slot made to allow a flag staff to stand on the ledge half way down the rock. The carn would then have helped to raise and support the pole, and to shelter an operator of the signal who could have stood in the lee of it.
 
-If a staff was fitted here, it may have been a re-used timber from a ship, salvaged from the shore or from a wreck. Wreck timber was traditionally used for all purposes requiring wood in buildings on Scilly, where ceiling beams are often round- or half-round in section, indicating use of ships’ masts or spars similar in breadth to this slot.
+If a staff was fitted here, it may have been a re-used timber from a ship, salvaged from the shore or from a wreck. Wreck timber was traditionally used for all purposes requiring wood in buildings on Scilly, where ceiling beams are often round- or half-round in section, indicating use of ships’ masts or spars similar in breadth to this slot. 
 
-  
-
-(2) Drill holes suitable for fixings (rather than splitting) are visible on the Rock, at least two on the north side and two on the top. In places their edges appear slightly faceted rather than round, perhaps because they are the result of a particular style of hand drilling.
+**(2)** Drill holes suitable for fixings (rather than splitting) are visible on the Rock, at least two on the north side and two on the top. In places their edges appear slightly faceted rather than round, perhaps because they are the result of a particular style of hand drilling.
 
 The hole at this point (2) has rusty remains of an iron fixture inside it. It is likely that this was a loop or hook used for securing a cable, to serve, along with more irons once fixed in the other holes, as a stay for a signal staff held against the north face of the carn. Well-preserved ironwork of this kind survives still fixed on a rock at the Coastguard lookout of at Flagstaff Hill on the other side of St Martin’s. 
 
 Iron was wrought at Hugh Town, for use on Scilly and on the ships that were built and supplied here on a large scale in Victorian times. The OS maps of 1887 and 1906 show a smithy beside Town Beach at the east end of Thoroughfare (with a double gig shed beside it), on the site where Golden Bay Mansions now stands.
 
-  
-
-(3) Two pairs of initials, FN and RE, are cut in the Rock at this point, though they are not clear on the model (due to light conditions; much of the project scanning happened to be in bad weather!). As granite is not easily cut, this may be a reflection of time spent on watch here.
+**(3)** Two pairs of initials, FN and RE, are cut in the Rock at this point, though they are not clear on the model (due to light conditions; much of the project scanning happened to be in bad weather!). As granite is not easily cut, this may be a reflection of time spent on watch here.
 
 A small watch house stands at roughly the same height on the north east coast of St Mary’s at Mount Todden, within a Scheduled battery of the Civil War. This was used in watching the east approach to Scilly in times of danger, which will have been another function of Signal Rock from the deep past. The flat roof, made of lintels capped with turf for disguise like the islands’ Second World War ‘pillboxes’, offers a lookout platform similar to Signal Rock’s.
 
 A massive rock slab forms one wall of the watch house. Inside, carved on the slab, are initials, dates, a flag, and other graffiti, made from Napoleonic times to the Great War. A shallow ledge, perhaps trimmed for the purpose, is just large enough to hold a small light.
 
-  
-
-(4) The top of the Rock is not readily accessible. The south west corner has a sloping shelf cut into it (with a drilled hole near its south end). This is rather too wide and sloping to be an early step, is not worn, and doesn’t lead on higher ones. It was probably cut to obtain a piece of stone.
+**(4)** The top of the Rock is not readily accessible. The south west corner has a sloping shelf cut into it (with a drilled hole near its south end). This is rather too wide and sloping to be an early step, is not worn, and doesn’t lead on higher ones. It was probably cut to obtain a piece of stone.
 
 The painting of the site as seen from the south, made before 1881, shows more rock outcrops on the Green. Moorstones obtained from here are likely to have been used as material for the building of the nearby Chapel in 1822, its re-building in 1836, and its Sunday School extension in 1881. There is bedrock beside Signal Rock at ground level, on the north; possibly it once rose higher and had a natural shape or cut footholds that could be used in climbing up the carn.
 
