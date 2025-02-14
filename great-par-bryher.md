@@ -75,7 +75,7 @@ The panorama seen from the _Czar_ shed site takes in the hazardous rocks in the 
 
 [![Screenshot of 3D model](website-images/Bryher-Czar-Great-Porth/12-Czar-gig-shed-3d-model.jpg)](https://sketchfab.com/3d-models/czar-gig-shed-bryher-isles-of-scilly-dbf8ec2c38464f30a78ea0b9c3867942)
 
-[View the 3D model on Sketchfab](https://sketchfab.com/3d-models/czar-gig-shed-bryher-isles-of-scilly-dbf8ec2c38464f30a78ea0b9c3867942). Click the annotations to find out more about the different parts of the complex. The annotations are included below for reference.
+[View the 3D model on Sketchfab](https://sketchfab.com/3d-models/czar-gig-shed-bryher-isles-of-scilly-dbf8ec2c38464f30a78ea0b9c3867942) where you can click the annotations to find out more about the different parts of the complex. The annotations are included below for reference.
 
 **(1)** The interior of _Czar_’s shed can be seen, and felt underfoot, despite vegetation growth, forming a distinct strip south of slipway (4). The actual floor lies under blown sand. The _Eagle_ shed nearby had beach cobble flooring (Richard Pearce, pers. comm.)
 
