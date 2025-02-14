@@ -9,7 +9,7 @@ Dr Joanna Mattingly has found an image of gigs from 4 centuries ago (**Photo 1**
 
 _1: Depiction of an 8-oared gig on the creek by St Just in Roseland churchyard in 1620. Reproduced with kind permission of Kresen Kernow, Redruth: ref. ACS ARD/TER/637._
 
-Gigs were later limited to 6 oars, to make it harder for them to evade pursuit by Customs cutters. Masters of gigs on Scilly petitioned against a restriction to only 4 oars in 1829. Fifty years later, in 1879, Peters built the _Czar_, originally fitted for 7 oars, for Bryher **LINK to _Czar_ shed page**.
+Gigs were later limited to 6 oars, to make it harder for them to evade pursuit by Customs cutters. Masters of gigs on Scilly petitioned against a restriction to only 4 oars in 1829. Fifty years later, in 1879, Peters built the _Czar_, originally fitted for 7 oars, for [Bryher](great-par-bryher.md).
 
 Many pilot gig sheds are plotted on the large-scale OS maps of 1887-1888. The OS also plotted clearings running across rockier shores (except on Tresco, surrounded by sandy beaches apart from at its north end which has higher cliffs). These features are revealed at low tides, often strewn with shifting beach stones and festooned in seaweed.
 
