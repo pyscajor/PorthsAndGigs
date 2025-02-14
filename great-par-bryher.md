@@ -1,7 +1,7 @@
 # Great Par, Bryher
 ## Sheds of renowned gigs, worked by rival groups of pilots
 
-The _Czar_ is the only historic gig on Scilly that has never been kept away from the islands, and continues to be rowed and raced here today (Tresco & Bryher Gig Rowing Club website) (**Photos 1** & **2**). Built by Peters in 1879, she was originally fitted for seven oars; a Victorian renewal of an old St Mawes tradition, reaching back 400 years, of 7- or even 8-oared gigs, banned in Georgian times for their potential for use by smugglers to evade excise vessels **link to Project Page**.
+The _Czar_ is the only historic gig on Scilly that has never been kept away from the islands, and continues to be rowed and raced here today (Tresco & Bryher Gig Rowing Club website) (**Photos 1** & **2**). Built by Peters in 1879, she was originally fitted for seven oars; a Victorian renewal of an old St Mawes tradition, reaching back 400 years, of 7- or even 8-oared gigs, banned in Georgian times for their potential for use by smugglers to evade excise vessels.
 
 ![A historical black-and-white photograph of the pilot gig Czar with a small sail, navigating choppy waters near the rocky coastline. Six rowers are on board, pulling hard on the oars, with a distinctive stacked rock formation in the background. A cow is barely visible in the water, swimming alongside the gig.](website-images/Bryher-Czar-Great-Porth/1-czar-1910-g13986.jpg)
 
