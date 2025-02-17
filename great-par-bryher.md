@@ -1,3 +1,5 @@
+**Porths and Gigs of the Isles of Scilly: [Home](index.md) &#124; [The Project](project.md) &#124; [Around Hugh Town](around-hugh-town.md) &#124; [Innisidgen, St Mary's](innisidgen-st-marys.md) &#124; [New Quay, St Mary's](new-quay-st-marys.md) &#124; [Peraskin, Agnes](peraskin-st-agnes.md) &#124; [Great Par, Bryher](great-par-bryher.md) &#124; [Beacon Hill, Tresco](beacon-hill-tresco.md) &#124; [Signal Rock, St Martin's](signal-rock-st-martins.md)** 
+
 # Great Par, Bryher
 ## Sheds of renowned gigs, worked by rival groups of pilots
 
@@ -117,3 +119,4 @@ On the far south side of Great Porth, a thin neck of land runs out west to Heath
 
 To the north was the earlier shed of the _Albion_, renowned for the 1871 _Delaware_ rescue (thanks to Richard Jenkins for information). It was gone before 1888, but part of its gable end remained in living memory (Richard Pearce, pers. comm.). It stood beyond a concrete drain, which runs from the Pool behind that gave its name to the hamlet here established in the age of pilotage.
 
+**Porths and Gigs of the Isles of Scilly: [Home](index.md) &#124; [The Project](project.md) &#124; [Around Hugh Town](around-hugh-town.md) &#124; [Innisidgen, St Mary's](innisidgen-st-marys.md) &#124; [New Quay, St Mary's](new-quay-st-marys.md) &#124; [Peraskin, Agnes](peraskin-st-agnes.md) &#124; [Great Par, Bryher](great-par-bryher.md) &#124; [Beacon Hill, Tresco](beacon-hill-tresco.md) &#124; [Signal Rock, St Martin's](signal-rock-st-martins.md)** 
