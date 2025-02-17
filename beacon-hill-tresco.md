@@ -67,7 +67,7 @@ The re-building of the lookout was probably done for the Preventives, or Customs
 
 **(3)** Two rows of stones run across the top of the platform, back from the edge, towards the north side. The straighter edges of the stones are aligned, forming the opposing faces of a wall (which had a ram core, part weathered away).
 
-The stones resemble those of the outer revetment, but rise from a tumbled part of it, and the walling is less regular than the facing. This indicates the wall relates to the later phase of the lookout _c_1822-1850, replacing its original north side presumably to save work. When full height, it could have given shelter to the Preventives, who may also have had a roofed lean-to refuge against the platform, accessible down the steps.
+The stones resemble those of the outer revetment, but rise from a tumbled part of it, and the walling is less regular than the facing. This indicates the wall relates to the later phase of the lookout *c*1822-1850, replacing its original north side presumably to save work. When full height, it could have given shelter to the Preventives, who may also have had a roofed lean-to refuge against the platform, accessible down the steps.
 
 Archaeology of the previous phases of the site may lie under the bushes and/or under the surface. The flagpole recorded in the mid-18th century probably had a socket slab set into the surface and guy hooks fixed to other stones. Potentially, a pocket of distinctive soil representing the pole base could survive, if the mast was left to decay _in situ_.
 
