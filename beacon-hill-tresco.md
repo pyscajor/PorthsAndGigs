@@ -1,3 +1,5 @@
+**Porths and Gigs of the Isles of Scilly: [Home](index.md) &#124; [The Project](project.md) &#124; [Around Hugh Town](around-hugh-town.md) &#124; [Innisidgen, St Mary's](innisidgen-st-marys.md) &#124; [New Quay, St Mary's](new-quay-st-marys.md) &#124; [Peraskin, Agnes](peraskin-st-agnes.md) &#124; [Great Par, Bryher](great-par-bryher.md) &#124; [Beacon Hill, Tresco](beacon-hill-tresco.md) &#124; [Signal Rock, St Martin's](signal-rock-st-martins.md)** 
+
 # Beacon Hill, Tresco
 ## Hilltop platform that once had a mast for pilots to signal to ships
 
@@ -76,5 +78,7 @@ Borlase, W, 1756. _Observations on the Ancient and Present State of the Islands 
 Gibson and Sons, _c_1932 (undated). _The Isles of Scilly_. Gibson & Sons: Isles of Scilly
 
 Troutbeck, J, 1796. _A Survey of the Ancient and Present State of the Scilly Islands_: Sherborne
+
+**Porths and Gigs of the Isles of Scilly: [Home](index.md) &#124; [The Project](project.md) &#124; [Around Hugh Town](around-hugh-town.md) &#124; [Innisidgen, St Mary's](innisidgen-st-marys.md) &#124; [New Quay, St Mary's](new-quay-st-marys.md) &#124; [Peraskin, Agnes](peraskin-st-agnes.md) &#124; [Great Par, Bryher](great-par-bryher.md) &#124; [Beacon Hill, Tresco](beacon-hill-tresco.md) &#124; [Signal Rock, St Martin's](signal-rock-st-martins.md)** 
 
 Woodley, G, 1822. _A View of the Present State of the Scilly Islands_. SPCK: London
