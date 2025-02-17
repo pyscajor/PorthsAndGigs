@@ -1,3 +1,5 @@
+**Porths and Gigs of the Isles of Scilly: [Home](index.md) &#124; [The Project](project.md) &#124; [Around Hugh Town](around-hugh-town.md) &#124; [Innisidgen, St Mary's](innisidgen-st-marys.md) &#124; [New Quay, St Mary's](new-quay-st-marys.md) &#124; [Peraskin, Agnes](peraskin-st-agnes.md) &#124; [Great Par, Bryher](great-par-bryher.md) &#124; [Beacon Hill, Tresco](beacon-hill-tresco.md) &#124; [Signal Rock, St Martin's](signal-rock-st-martins.md)** 
+
 # Porths and Gigs of the Isles of Scilly
 
 Welcome to this exploration of the archaeology of pilot gigs on Scilly, with results of fieldwork on all the main islands in 2024 (**Photo 1**), including 3D models and plans made at extra-low tide. 
@@ -84,3 +86,5 @@ The fieldwork took in sites on each of the five main islands.
 * [Great Par, Bryher](great-par-bryher.md) ─Sheds of renowned gigs, worked by rival groups of pilots
 * [Beacon Hill, Tresco](beacon-hill-tresco.md) ─ Hilltop platform that once had a mast for pilots to signal to ships
 * [Signal Rock, St Martin’s](signal-rock-st-martins.md) ─ Ancient lookout and meeting place, on a rock outcrop
+
+**Porths and Gigs of the Isles of Scilly: [Home](index.md) &#124; [The Project](project.md) &#124; [Around Hugh Town](around-hugh-town.md) &#124; [Innisidgen, St Mary's](innisidgen-st-marys.md) &#124; [New Quay, St Mary's](new-quay-st-marys.md) &#124; [Peraskin, Agnes](peraskin-st-agnes.md) &#124; [Great Par, Bryher](great-par-bryher.md) &#124; [Beacon Hill, Tresco](beacon-hill-tresco.md) &#124; [Signal Rock, St Martin's](signal-rock-st-martins.md)** 
