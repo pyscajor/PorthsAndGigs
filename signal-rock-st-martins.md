@@ -13,7 +13,7 @@ _1: Signal Rock, formerly called News Rock, in the green at Higher Town by the r
 
 As noted in an early guidebook, the site was formerly a pilot lookout, as well as a meeting place;
 
-‘Here is the “Rock”, a prehistoric remnant: the village look-out, and in times past the favourite meeting place of the elders …. There is a grand outlook from here, where in the old sailing ship days vessels wanting a pilot were quickly seen’ (Gibson and Sons _c_1931, 89-90).
+‘Here is the “Rock”, a prehistoric remnant: the village look-out, and in times past the favourite meeting place of the elders …. There is a grand outlook from here, where in the old sailing ship days vessels wanting a pilot were quickly seen’ (Gibson and Sons c.1931, 89-90).
 
 The Rock will have been a natural lookout and gathering place from ancient times. Its top, fairly flat, gives enough elevation to see across St Martin’s, and out to other islands and the open sea (**Photo 2**). It is surrounded by a green, so that the houses stand back from it. Formerly all island homes were single-storey, and trees were few, so the view will have reached even further.
 
@@ -37,13 +37,13 @@ Par Beach is the site of a remarkable long-lived and long-adapted row of sheds (
 
 ![A row of traditional stone gig sheds with grey corrugated roofs, located near a sandy path by the sea. A blue wooden door stands out among the stonework, with small boats and equipment scattered outside.](website-images/St-Martins-Signal-Rock/5-gig-sheds-6-may-2024.jpg)
 
-_5: Sheds at Par Beach, St Martin’s. The nearest is a pilot gig shed of c1900; the next, the more recent shed of the 2001 gig _Galatea_, and the third is another modern shed housing the Dolphin of 1969 (replacing a shorter shed of _c_1900). There were formerly other sheds, to either side; the largest ever gig, _Queen_, is still recalled as having been housed just left (east) of these standing ones (Steve Walder, pers. comm) and the 1888 map shows a shed there 34 feet long._
+_5: Sheds at Par Beach, St Martin’s. The nearest is a pilot gig shed of c.1900; the next, the more recent shed of the 2001 gig Galatea, and the third is another modern shed housing the Dolphin of 1969 (replacing a shorter shed of c.1900). There were formerly other sheds, to either side; the largest ever gig, Queen, is still recalled as having been housed just left (east) of these standing ones (Steve Walder, pers. comm) and the 1888 map shows a shed there 34 feet long._
 
 Troutbeck in 1796 also mentions another vantage point on the high ground of St Martin’s, which at that time was still in use as one of the pilots’ lookouts;
 
-‘About three furlongs [or 603m] from the church N.E. is a circle of stones twenty-four feet diameter, called the Guard-house, upon high ground, where pilots meet to look out for ships; here was formerly a small house, where soldiers, in the reign of Queen Anne [1702-1714] kept watch, which is now demolished, and the materials carried off.’
+‘About three furlongs [or 603m] from the church N.E. is a circle of stones twenty-four feet diameter, called the Guard-house, upon high ground, where pilots meet to look out for ships; here was formerly a small house, where soldiers, in the reign of Queen Anne (1702-1714) kept watch, which is now demolished, and the materials carried off.’
 
-The Guard House was across the island, at Turfy Hill, also known as Flagstaff Hill (_c_360m rather than 603m ENE of the church). The OS map of 1888 shows its old circular base there, plus a Coastguard Service lookout, with its flagstaff marked as a dot, still in use at that time. Flagstaff and Signal Rock are inter-visible (**Photo 6**). Messages could have been passed between them, potentially by the ancient method of ‘swaysing’ or waving a jacket or cap as well as by flags.
+The Guard House was across the island, at Turfy Hill, also known as Flagstaff Hill (c.360m rather than 603m ENE of the church). The OS map of 1888 shows its old circular base there, plus a Coastguard Service lookout, with its flagstaff marked as a dot, still in use at that time. Flagstaff and Signal Rock are inter-visible (**Photo 6**). Messages could have been passed between them, potentially by the ancient method of ‘swaysing’ or waving a jacket or cap as well as by flags.
 
 ![A granite rock with a rusted iron ring embedded on top, surrounded by low shrubs and vegetation. The view extends over green fields and the blue sea, with distant islands visible on the horizon.](website-images/St-Martins-Signal-Rock/6-flagstaff.jpg)
 
@@ -55,11 +55,11 @@ Signal Rock is also one of three places in the area with evidence of flag signal
 
 _7: Napoleonic signal station at Chapel Down at the east end of St Martin’s, with ruins of lodgings and stores including for the signal flags. The outlying rock seen beyond, Hanjague, is one of many on the east and west of Scilly where gigs attended shipwrecks as well as providing pilotage._
 
-There is no record of a flagstaff at Signal Rock on the OS maps of 1888 and 1906. A painting of the site _c_1836-1881 (part of a heritage display nearby in the Sunday School of the Chapel) does not show it (**Photo 8**). There may have been a pilot signal mast here, like that documented at Beacon Hill, Tresco, come and gone before the middle decades of the 19th century ─ or a short-lived Coastguard staff, either of that time or shortly after 1906 as it wasn’t mentioned in 1932.
+There is no record of a flagstaff at Signal Rock on the OS maps of 1888 and 1906. A painting of the site c.1836-1881 (part of a heritage display nearby in the Sunday School of the Chapel) does not show it (**Photo 8**). There may have been a pilot signal mast here, like that documented at Beacon Hill, Tresco, come and gone before the middle decades of the 19th century ─ or a short-lived Coastguard staff, either of that time or shortly after 1906 as it wasn’t mentioned in 1932.
 
 ![A historic painting depicting Signal Rock on St Martin’s, surrounded by 19th-century buildings with thatched and slate roofs. The painting has a greenish tint and visible cracks in the surface.](website-images/St-Martins-Signal-Rock/8-painting-of-signal-rock-c1836-1881.jpg)
 
-_8: Signal Rock or News Rock _c_1836-1881, as shown in a painting included in a display of images of island heritage at the (later) Sunday School extension to the Chapel on the left. Reproduced thanks to the St Martin’s Methodist Church members and to Mandy Williams._
+_8: Signal Rock or News Rock c.1836-1881, as shown in a painting included in a display of images of island heritage at the (later) Sunday School extension to the Chapel on the left. Reproduced thanks to the St Martin’s Methodist Church members and to Mandy Williams._
 
 ## 3D model
 
@@ -93,7 +93,7 @@ Moorstones may also have been used to sit and study the view, like the wooden be
 
 ## Sources
 
-* Gibson and Sons, _c_1932 (undated). _The Isles of Scilly_. Gibson & Sons: Isles of Scilly
+* Gibson and Sons, c.1932 (undated). _The Isles of Scilly_. Gibson & Sons: Isles of Scilly
 * Troutbeck, J, 1796. _A Survey of the Ancient and Present State of the Scilly Islands_: Sherborne
 
 **Porths and Gigs of the Isles of Scilly: [Home](index.md) &#124; [The Project](project.md) &#124; [Around Hugh Town](around-hugh-town.md) &#124; [Innisidgen, St Mary's](innisidgen-st-marys.md) &#124; [New Quay, St Mary's](new-quay-st-marys.md) &#124; [Peraskin, Agnes](peraskin-st-agnes.md) &#124; [Great Par, Bryher](great-par-bryher.md) &#124; [Beacon Hill, Tresco](beacon-hill-tresco.md) &#124; [Signal Rock, St Martin's](signal-rock-st-martins.md)** 
