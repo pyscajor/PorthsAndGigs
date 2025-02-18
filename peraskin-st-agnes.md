@@ -25,11 +25,11 @@ _3: Earthworks of the early gig shed no. 1 at Peraskin, seen from the rocks behi
 
 ![A grassy landscape with a wooden pallet resting on the ground, overlaid with text labels marking the locations of historical gig sheds. The terrain is uneven with patches of heather and scattered rocks, with the sea visible in the background.](website-images/St-Agnes-Peraskin/4-gig-sheds-2-4-peraskin-may-2024.jpg)
 
-_4: Looking south across Peraskin’s central gig sheds, nos. 2-4. Beyond the site, the sea to the east of St Agnes appears across the ridge of Wingletang Down; conveying the strategic value of the siting of the sheds on this headland, the southernmost point of St Agnes and of Scilly._
+_4: Looking south across Peraskin’s central gig sheds, nos. 2-4. Beyond the site, the sea to the east of St Agnes appears across the ridge of Wingletang Down; conveying the strategic value of the siting of the sheds on this headland, at the southernmost extremity of the inhabited land of St Agnes and of Scilly._
 
 ![A grassy hillside with scattered granite boulders and a partially eroded section of soil in the foreground. The landscape slopes upward, with a faint footpath leading to a ridge lined with more boulders under a partly cloudy sky.](website-images/St-Agnes-Peraskin/5-gig-shed-5-peraskin-st-agnes-may-2024.jpg)
 
-_5: Peraskin’s northern gig shed, no. 5, associated with the late-19th century gig _Cetewayo_. The seaward end of the shed, in the foreground, is being cut back by coastal erosion._
+*5: Peraskin’s northern gig shed, no. 5, associated with the late-19th century gig Cetewayo. The seaward end of the shed, in the foreground, is being cut back by coastal erosion.*
 
 Three sheds, a single one and a pair, are Scheduled Monuments, meaning they are protected by law as well as by the community ─ some of the islanders are direct descendants of the pilots. Despite this, the monuments are threatened by coastal erosion and sea level rise, gradually advancing.
 
@@ -53,15 +53,15 @@ The name of the old _Cetewayo_, also given to St Agnes’ latest gig, built by P
 
 ![Two traditional wooden pilot gigs with blue and white paint, named Shah and Cetewayo, rest on the sand during a launch event. A group of people, dressed in warm clothing, stand nearby, with a rocky shoreline and grassy hillside in the background.](website-images/St-Agnes-Peraskin/9-launch-of-new-gig-cetewayo-photo-credit-julian-pearce-st-agnes-gig-club-facebook.jpg)
 
-_9: Launch in 2024 at Perconger, St Agnes, of the island’s new gig _Cetewayo_, built by Patrick Bird (with acknowledgements for the photo by Julian Pearce on St Agnes Gig Club Facebook page)._
+_9: Launch in 2024 at Perconger, St Agnes, of the island’s new gig Cetewayo, built by Patrick Bird (with acknowledgements for the photo by Julian Pearce on St Agnes Gig Club Facebook page)._
 
 In 1882, however, King Cetewayo was permitted to visit London for several weeks. On August 4th he landed at Southampton and travelled by train to reside at 18 Melbury Road, Kensington, now marked by one of English Heritage’s Blue Plaques. The King was hugely popular, and gained the respect and support of several leading British statesmen (**Photo 10**). Crowds followed and cheered him as he negotiated his reinstatement. He returned to Zululand in 1883, but further turmoil there, and possibly treachery, led to his death in 1884 after which his young heir Dinizulu was proclaimed king. (Information from the Blue Plaques website.)
 
 ![A historical black-and-white portrait of King Cetewayo, the Zulu leader, seated in formal attire. He wears a dark double-breasted coat with a pocket square and gloves, and on his head, he has a traditional Zulu isicoco, a woven or fitted headband-like headdress symbolising his status as a leader.](website-images/St-Agnes-Peraskin/10-npg-x134549.jpg)
 
-_10: King Cetewayo, wearing his traditional _isicoco_, a head-ring worn by Zulu men, in London in 1882. (© National Portrait Gallery, London. Thanks to the Gallery and to the English Heritage Blue Plaques scheme website for the photo and for caption content.)_
+*10: King Cetewayo, wearing his traditional isicoco, a head-ring worn by Zulu men, in London in 1882. (© National Portrait Gallery, London. Thanks to the Gallery and to the English Heritage Blue Plaques scheme website for the photo and for caption content.)*
 
-Cornish newspapers reported that Cetewayo arrived from Cape Town on the _Arab_, a 350 foot steamer. On August 3rd before reaching Southampton, _Arab_ touched at Plymouth early in the morning, after a rough run from Madeira and through the Channel in a severe gale. People crowded to Plymouth to see the powerful figure of Cetewayo, who sat on deck with his chiefs. He wore, at that time, a pilot coat (_West Briton and Cornwall Advertiser_, August 10 1882, 3; _Cornubian and Redruth Times_ August 11 1882, 4). On his departure, the King left from Plymouth, again in a gale, on the _Nubian (op cit,_ September 8 1882, 6), a steamer very like the _Arab_.
+Cornish newspapers reported that Cetewayo arrived from Cape Town on the _Arab_, a 350 foot steamer. On August 3rd before reaching Southampton, _Arab_ touched at Plymouth early in the morning, after a rough run from Madeira and through the Channel in a severe gale. People crowded to Plymouth to see the powerful figure of Cetewayo, who sat on deck with his chiefs. He wore, at that time, a pilot coat (_West Briton and Cornwall Advertiser_, August 10 1882, 3; _Cornubian and Redruth Times_ August 11 1882, 4). On his departure, the King left from Plymouth, again in a gale, on the _Nubian (op cit_, September 8 1882, 6), a steamer very like the _Arab_.
 
 Possibly the Agnes gig was named for Cetewayo after her crew provided pilotage to the King’s steamer, or one of their number encountered the scene in Plymouth after serving another ship. 
 
@@ -111,7 +111,7 @@ Richard Gillis of Newquay recorded some of the lore of gig launching at speed in
 
   
 
-**(5)** Northern gig shed. This shed is Scheduled, like double shed (2) and (3). Parallel with Shed (4), it may be of a similar date, _c_1880 if newly built for the historic gig it’s linked to (below). Also like (4) it still had a roof when the 1888 map was made. However, it was soon reduced and the 1906 map showed nothing here.
+**(5)** Northern gig shed. This shed is Scheduled, like double shed (2) and (3). Parallel with Shed (4), it may be of a similar date, c.1880 if newly built for the historic gig it’s linked to (below). Also like (4) it still had a roof when the 1888 map was made. However, it was soon reduced and the 1906 map showed nothing here.
 
 This shed is identified locally as having housed the old gig _Cetewayo_ (Patrick Bird and Tristan Hick, pers. comm.) The main Peraskin page gives stories of this gig, famed for her speed, and of her namesake, the Zulu King famous in Britain around 1882. A separate 3D model presents the structural remains here, clearer than those of the sheds to the south.
 
@@ -157,7 +157,7 @@ The banks where the side walls stood run half way to the present head of the bea
 
 This shed, attributed to _Cetewayo_, is also a Scheduled Monument. It is listed by Historic England as being ‘At Risk’. Its front end has been destroyed by the sea. It has also been worn down by several strands of the coast path, which run across it.
 
-Due to the erosion, the walls are more exposed towards the front, They are narrow and regular compared to those of early sheds like New Quay’s. Their width is more standard, _c_0.9m, and they were built up in courses. The wall cores are the traditional subsoil, or ram, however.
+Due to the erosion, the walls are more exposed towards the front, They are narrow and regular compared to those of early sheds like New Quay’s. Their width is more standard, c.0.9m, and they were built up in courses. The wall cores are the traditional subsoil, or ram, however.
 
 There is no trace of a slip, yet the site is several metres above the beach. Perhaps timber ‘ways’, were laid here. Ways are known to have been used at the shed of the _Golden Eagle_ of similar date (1870) at Great Porth, Bryher, restored as a studio (thanks to Richard Pearce for information).
 
