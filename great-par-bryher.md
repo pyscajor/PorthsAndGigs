@@ -3,15 +3,15 @@
 # Great Par, Bryher
 ## Sheds of renowned gigs, worked by rival groups of pilots
 
-The _Czar_ is the only historic gig on Scilly that has never been kept away from the islands, and continues to be rowed and raced here today (Tresco & Bryher Gig Rowing Club website) (**Photos 1** & **2**). Built by Peters in 1879, she was originally fitted for seven oars; a Victorian renewal of an old St Mawes tradition, reaching back 400 years, of 7- or even 8-oared gigs, banned in Georgian times for their potential for use by smugglers to evade excise vessels.
+The _Czar_ is the only historic gig on Scilly that has never been kept away from the islands, and continues to be rowed and raced here today (Tresco & Bryher Gig Rowing Club website) (**Photos 1** & **2**). Built by Peters in 1879, she was originally fitted for seven oars; a Victorian renewal of an old St Mawes tradition, reaching back to 400 years ago, of 7- or even 8-oared gigs, banned in Georgian times for their potential for use by smugglers to evade excise vessels.
 
 ![A historical black-and-white photograph of the pilot gig Czar with a small sail, navigating choppy waters near the rocky coastline. Six rowers are on board, pulling hard on the oars, with a distinctive stacked rock formation in the background. A cow is barely visible in the water, swimming alongside the gig.](website-images/Bryher-Czar-Great-Porth/1-czar-1910-g13986.jpg)
 
-_1: _Czar_ attended the wreck of the _Minnehaha_ in 1910, saving live cattle, seen here swimming alongside the gig. The cattle were secured by ropes to the thole pins (Fraser Hicks, pers. comm.). Photograph by Gibson **© National Maritime Museum, Greenwich, London**._
+_1: Czar attended the wreck of the _Minnehaha_ in 1910, saving live cattle, seen here swimming alongside the gig. The cattle were secured by ropes to the thole pins (Fraser Hicks, pers. comm.). Photograph by Gibson **© National Maritime Museum, Greenwich, London**._
 
 ![A modern colour photograph of the red and white pilot gig 'Czar' participating in a racing event. The boat is crewed by six rowers in red shirts, with a coxswain at the stern, and other racing gigs visible in the foreground against a backdrop of the open sea and a distant coastline.](website-images/Bryher-Czar-Great-Porth/2-czar-today.jpeg)
 
-_2: _Czar_ racing over a century later; thanks to Aaron Haile and Jonathan Taylor for the photo._
+_2: Czar racing over a century later; thanks to Aaron Haile and Jonathan Taylor for the photo._
 
 _Czar_ was formerly kept at Great Par, or Porth. Gig sheds once stood in three places, spaced around the north half of the par, serving rival pilotage concerns (**Photo 3**). Dispersed sheds (or clusters of them) elsewhere, as at Peraskin, St Agnes, may again have belonged to different shareholding groups. Sheds were also placed to make use of the relative shelter afforded by corners of beaches.
 
@@ -31,33 +31,33 @@ _5: Plan of the Czar shed, with the site of a slipway in front, and the concrete
 
 ![ A red-and-white survey pole stands in a cleared area of grass and vegetation, with a rusted mechanical object lying nearby. The site overlooks a rocky shoreline.](website-images/Bryher-Czar-Great-Porth/6-sm-freed-of-invasive-growth-2023.jpg)
 
-_6: _Czar_ shed after vegetation control in 2023, with the hollow way to the concrete slip (right).
+_6: Czar shed after vegetation control in 2023, with the hollow way to the concrete slip (right)._
 
 ![A boulder-strewn beach with patches of sand and seaweed, leading up to a modern slipway made of concrete and stone. Blue arrows highlight the remains of a much older slipway](website-images/Bryher-Czar-Great-Porth/7-slip-in-front-2019.jpg)
 
-_7: _Indications of a slip below the_ Czar _shed (arrowed, spanning the foreground) in 2019. Some stones appear to have been laid with one side aligned, similar to those edging old slipways._
+_7: Indications of a slip below the Czar shed (arrowed, spanning the foreground) in 2019. Some stones appear to have been laid with one side aligned, similar to those edging old slipways._
 
-The roof survived until *c*1960, appearing in a rare close-up photo (**Photo 8**). It was thatched with rushes or reeds from pools and inlets (Chris Potterton, pers. comm.). It appears to have had bundles of thatch not fully secured by a rope net in the traditional way (as seen in the 1862 painting on the front website page), probably because they represent repair late in the lifetime of the shed.
+The roof survived until c.1960, appearing in a rare close-up photo (**Photo 8**). It was thatched with rushes or reeds from pools and inlets (Chris Potterton, pers. comm.). It appears to have had bundles of thatch not fully secured by a rope net in the traditional way (as seen in the 1862 painting on the front website page), probably because they represent repair late in the lifetime of the shed.
 
 ![A 1960s black-and-white photograph of the thatched Czar gig shed with a wooden door, situated along a track. A person walks towards the camera, with a landscape of hedgerows and low hills in the background.](website-images/Bryher-Czar-Great-Porth/8-czar-shed-bryher-ios-museum-ref-rn07507.jpg)
 
-_8: The landward end of the _Czar_ shed, seen from the south, around the middle of the 20th century when it was still maintained. Courtesy of the Isles of Scilly Museum (ref. no. RN07507)_
+_8: The landward end of the Czar shed, seen from the south, around the middle of the 20th century when it was still maintained. Courtesy of the Isles of Scilly Museum (ref. no. RN07507)_
 
 In the 1960s the _Czar_ was kept in the _Eagle_ shed to its south, which was roofed with thatch, then tiles, then corrugated iron, before being restored with tiles on conversion to a studio (Nick Jenkins, Richard Pearce and David Stedeford, pers. comms.). Red ‘Double Roman’ tiles are traditional, being used on Scilly from before 1800; they were shipped from Bridgwater, Somerset (**Photo 9**).
 
 ![A restored gig shed, now a studio, with a pitched roof, blue doors, and weathered wooden beams, partially hidden by dunes and greenery. Large stones and boulders form sea defences along the edge of the sandy beach.](website-images/Bryher-Czar-Great-Porth/9-eagle-house-may-2024.jpg)
 
-_9: The _Golden Eagle_ shed restored as an artist’s studio, further south on Great Porth. The _Czar_ shed site lies by the slipway visible to the left._
+_9: The _Golden Eagle_ shed restored as an artist’s studio, further south on Great Porth. The Czar shed site lies by the slipway visible to the left._
 
 To the north is the site of the double shed of the 1844 gig _Albion_, and probably the _March_ (Richard Jenkins, pers. comm.). The shed is not apparent now on the ground, but is unforgettable as the site from which an astonishing rescue was carried out in 1871 (**Photos 10** and **11**).
 
-![A panoramic view of the coastal landscape featuring wildflowers, grasses, and the bay and rocks beyond])(website-images/Bryher-Czar-Great-Porth/10-czar-shed-panorama.jpg)
+![A panoramic view of the coastal landscape featuring wildflowers, grasses, and the bay and rocks beyond](website-images/Bryher-Czar-Great-Porth/10-czar-shed-panorama.jpg)
 
-_10: Panoramic view of the northern half of Great Porth. The base of the _Czar_ shed lies in the wild flowers in the foreground; the _Albion_ shed site is to the far right._
+_10: Panoramic view of the northern half of Great Porth. The base of the Czar shed lies in the wild flowers in the foreground; the Albion shed site is to the far right._
 
 ![A rocky shoreline with a tidal bay, viewed from an elevated position. In the foreground, green vegetation and a black dog standing on boulders frame the image, with a sandy beach and a small white boat in the background.](website-images/Bryher-Czar-Great-Porth/11-great-porth-albion-shed-site-may-2024.jpg)
 
-_11: Former site of the double shed of the _Albion_ and probably _March_, to the north on Great Porth (thanks to Richard Jenkins for information). These sheds were those from which the gigs were carried nearly half a mile, even before the rescuers left Bryher, to save lives from the sea in 1871._
+_11: Former site of the double shed of the Albion and probably March, to the north on Great Porth (thanks to Richard Jenkins for information). These sheds were those from which the gigs were carried nearly half a mile, even before the rescuers left Bryher, to save lives from the sea in 1871._
 
 The Liverpool steamer _Delaware_ foundered near Mincarlo, west of Samson, in a foul winter gale (_Cornish Telegraph_, December 27 1871, 2-3). A Bryher crew carried their gig (identified by local tradition as _Albion_) from here to Rushy Bay at the south end of the island, pulled across to Samson, carried _Albion_ across the Neck of Samson, launched again into ‘furious waves, shoulder-deep’, and pulled on westward to White Island, to reach the two survivors who’d been driven there from the wreck on a broken lifeboat.
 
@@ -87,9 +87,9 @@ The track just behind the sheds is the route used to carry Albion nearly half a 
 
 **(2)** Side wall of the _Czar_ shed. This is clearer than the north wall against slipway (4). It rises a little higher, and has more stone visible. The bases of the walls, like the floor, are buried in stabilised blown sand and tumbled stones.
 
-As shown by the mid-20th century photo of this site, originally the sides of the shed rose to _c_1.5m or shoulder high. Their stonework appears to have been more irregular than that seen in the sheds seen in another of the _Porths and Gigs_ models at New Quay, St Mary’s, still near-intact.
+As shown by the mid-20th century photo of this site, originally the sides of the shed rose to c.1.5m or shoulder high. Their stonework appears to have been more irregular than that seen in the sheds seen in another of the _Porths and Gigs_ models at New Quay, St Mary’s, still near-intact.
 
-Sheds in the past, like those of today, would have had gear stored against their walls, on wall tops, and hanging in the roof timbers or laid on planks across them. Old houses and barns had neat ‘keeping places’ built into their walls, as can be seen on Samson, but these were probably not usual in early gig sheds with their less regular stonework. A ruined gig shed on the Neck of Samson with a small timber lean-to store at one end, _c_200 years old, is explored in the _Porths and Gigs_ report.
+Sheds in the past, like those of today, would have had gear stored against their walls, on wall tops, and hanging in the roof timbers or laid on planks across them. Old houses and barns had neat ‘keeping places’ built into their walls, as can be seen on Samson, but these were probably not usual in early gig sheds with their less regular stonework. A ruined gig shed on the Neck of Samson with a small timber lean-to store at one end, c.200 years old, is explored in the *Porths and Gigs* report.
 
 **(3)** The lack of an inner end wall is part of the design of the shed, known for having had double doors at each end. This design may have been innovative for a gig shed. Sheds opening only to landward are known to occur, where winds laden with sand could hamper launch and recovery ─ as can be seen for instance from the walling of a roofless shed at Green Porth, Old Grimsby, Tresco (in the project report).
 
