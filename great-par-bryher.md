@@ -115,7 +115,7 @@ Some other shores, close to the open sea, change greatly with shifting beach mat
 
 To the south is the red-tiled roof of the _Golden Eagle_ shed restored as a studio, once thatched like this shed and similar in age.
 
-On the far south side of Great Porth, a thin neck of land runs out west to Heathy Hill. Beyond the neck, on Stony Porth is the possible site of a shed with some bits of red tile. An old photo shows a feature resembling a roof there (Richard Pearce, pers. comm.). If a gig shed, this was not standing _c_1888-1906 as the maps of those dates do not show it (see the project report for this and other possible sites).
+On the far south side of Great Porth, a thin neck of land runs out west to Heathy Hill. Beyond the neck, on Stony Porth is the possible site of a shed with some bits of red tile. An old photo shows a feature resembling a roof there (Richard Pearce, pers. comm.). If a gig shed, this was not standing c.1888-1906 as the maps of those dates do not show it (see the project report for this and other possible sites).
 
 To the north was the earlier shed of the _Albion_, renowned for the 1871 _Delaware_ rescue (thanks to Richard Jenkins for information). It was gone before 1888, but part of its gable end remained in living memory (Richard Pearce, pers. comm.). It stood beyond a concrete drain, which runs from the Pool behind that gave its name to the hamlet here established in the age of pilotage.
 
