@@ -13,7 +13,7 @@ The painting shows gig sheds at Point near the quay at New Grimsby on Tresco, be
 
 On the Isles of Scilly, seagoing rowing gigs—32-foot boats built from fine elm planks for strength and lightness—once played a vital role in maritime life. These boats carried pilots to ships navigating treacherous waters, rescued lives and cargo from wrecks, served in island farming and in coastal trades such as kelp making, and supported the building and maintenance of lighthouses and other maritime infrastructure.
 
-Though traditional gig rowing declined with the end of pilotage, it has been revived as a sport, and is thriving with clubs on Scilly, Cornwall, and across England. Today, hundreds of crews compete in the annual world championships on Scilly, with some of the islands' historic gigs still restored and racing.
+Though traditional gig rowing declined with the end of pilotage, it has been revived as a sport, and is thriving with clubs in Scilly and Cornwall, and across England. Today, hundreds of crews compete in the annual world championships on Scilly, with some of the islands' historic gigs still restored and racing.
 
 Scilly’s five main islands hold traces of old gig sheds, some dating back to the 17th century. Recent archaeological discoveries reveal evidence of around 90 sheds (at 60 sites, some sheds being clustered together). Half of these structures still survive, and six sites—or parts of them—are protected as Scheduled Monuments. These remains tell the story of Scilly’s maritime past, recalling remarkable feats of endurance as gig crews battled stormy seas to save ships and lives.
 

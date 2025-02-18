@@ -7,7 +7,7 @@ The _Czar_ is the only historic gig on Scilly that has never been kept away from
 
 ![A historical black-and-white photograph of the pilot gig Czar with a small sail, navigating choppy waters near the rocky coastline. Six rowers are on board, pulling hard on the oars, with a distinctive stacked rock formation in the background. A cow is barely visible in the water, swimming alongside the gig.](website-images/Bryher-Czar-Great-Porth/1-czar-1910-g13986.jpg)
 
-_1: Czar attended the wreck of the _Minnehaha_ in 1910, saving live cattle, seen here swimming alongside the gig. The cattle were secured by ropes to the thole pins (Fraser Hicks, pers. comm.). Photograph by Gibson **© National Maritime Museum, Greenwich, London**._
+_1: Czar attended the wreck of the Minnehaha in 1910, saving live cattle, seen here swimming alongside the gig. The cattle were secured by ropes to the thole pins (Fraser Hicks, pers. comm.). Photograph by Gibson **© National Maritime Museum, Greenwich, London**._
 
 ![A modern colour photograph of the red and white pilot gig 'Czar' participating in a racing event. The boat is crewed by six rowers in red shirts, with a coxswain at the stern, and other racing gigs visible in the foreground against a backdrop of the open sea and a distant coastline.](website-images/Bryher-Czar-Great-Porth/2-czar-today.jpeg)
 
@@ -47,7 +47,7 @@ In the 1960s the _Czar_ was kept in the _Eagle_ shed to its south, which was roo
 
 ![A restored gig shed, now a studio, with a pitched roof, blue doors, and weathered wooden beams, partially hidden by dunes and greenery. Large stones and boulders form sea defences along the edge of the sandy beach.](website-images/Bryher-Czar-Great-Porth/9-eagle-house-may-2024.jpg)
 
-_9: The _Golden Eagle_ shed restored as an artist’s studio, further south on Great Porth. The Czar shed site lies by the slipway visible to the left._
+_9: The Golden Eagle shed restored as an artist’s studio, further south on Great Porth. The Czar shed site lies by the slipway visible to the left._
 
 To the north is the site of the double shed of the 1844 gig _Albion_, and probably the _March_ (Richard Jenkins, pers. comm.). The shed is not apparent now on the ground, but is unforgettable as the site from which an astonishing rescue was carried out in 1871 (**Photos 10** and **11**).
 
