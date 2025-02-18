@@ -5,7 +5,9 @@
 
 Signal Rock, a carn on the high ground of St Martin’s at Higher Town (**Photo 1**), was once called News Rock. It was recorded in the late 18th century as - 
 
-‘…. a rock, called News Rock, at which the inhabitants meet every day, in fine weather or foul, to tell and hear news ….’ (Troutbeck 1796, 13). 
+> ‘…. a rock, called News Rock, at which the inhabitants meet every day, in fine weather or foul, to tell and hear news ….’
+> 
+> (Troutbeck 1796, 13). 
 
 ![A large weathered granite outcrop known as Signal Rock, surrounded by lush green vegetation with small white flowers. The clear blue sky and distant sea create a scenic backdrop on St Martin’s, Isles of Scilly.](website-images/St-Martins-Signal-Rock/1-signal-rock-hr-town-st-mtns-2024.jpg)
 
@@ -13,7 +15,9 @@ _1: Signal Rock, formerly called News Rock, in the green at Higher Town by the r
 
 As noted in an early guidebook, the site was formerly a pilot lookout, as well as a meeting place;
 
-‘Here is the “Rock”, a prehistoric remnant: the village look-out, and in times past the favourite meeting place of the elders …. There is a grand outlook from here, where in the old sailing ship days vessels wanting a pilot were quickly seen’ (Gibson and Sons c.1931, 89-90).
+> ‘Here is the “Rock”, a prehistoric remnant: the village look-out, and in times past the favourite meeting place of the elders …. There is a grand outlook from here, where in the old sailing ship days vessels wanting a pilot were quickly seen’
+> 
+> (Gibson and Sons c.1931, 89-90).
 
 The Rock will have been a natural lookout and gathering place from ancient times. Its top, fairly flat, gives enough elevation to see across St Martin’s, and out to other islands and the open sea (**Photo 2**). It is surrounded by a green, so that the houses stand back from it. Formerly all island homes were single-storey, and trees were few, so the view will have reached even further.
 
@@ -41,7 +45,7 @@ _5: Sheds at Par Beach, St Martin’s. The nearest is a pilot gig shed of c.1900
 
 Troutbeck in 1796 also mentions another vantage point on the high ground of St Martin’s, which at that time was still in use as one of the pilots’ lookouts;
 
-‘About three furlongs [or 603m] from the church N.E. is a circle of stones twenty-four feet diameter, called the Guard-house, upon high ground, where pilots meet to look out for ships; here was formerly a small house, where soldiers, in the reign of Queen Anne (1702-1714) kept watch, which is now demolished, and the materials carried off.’
+> ‘About three furlongs [or 603m] from the church N.E. is a circle of stones twenty-four feet diameter, called the Guard-house, upon high ground, where pilots meet to look out for ships; here was formerly a small house, where soldiers, in the reign of Queen Anne (1702-1714) kept watch, which is now demolished, and the materials carried off.’
 
 The Guard House was across the island, at Turfy Hill, also known as Flagstaff Hill (c.360m rather than 603m ENE of the church). The OS map of 1888 shows its old circular base there, plus a Coastguard Service lookout, with its flagstaff marked as a dot, still in use at that time. Flagstaff and Signal Rock are inter-visible (**Photo 6**). Messages could have been passed between them, potentially by the ancient method of ‘swaysing’ or waving a jacket or cap as well as by flags.
 
