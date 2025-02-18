@@ -3,7 +3,7 @@
 # Around Hugh Town, St Mary’s
 ## Archaeology of the building of pilot gigs
 
-The traditional design of gigs, evolved in Scilly and Cornwall, was particularly suited to running into a head sea, helping pilots reach sailing ships driven on the prevailing westerly winds. It was developed further by Cornish master builder William Peters in the early 19th century at Polvarth, St Mawes. Peters made all the historic gigs preserved on Scilly (mostly taken to Newquay and restored c.1954), and many more formerly kept on the islands. He also supplied to Newquay in 1838 the gig _Treffry_, whose lines are used as the model for racing gigs today (**Photo 1**).
+The traditional design of gigs, evolved in Scilly and Cornwall, was particularly suited to running into a head sea, helping pilots reach sailing ships driven on the prevailing westerly winds (Milly Edwards, pers. comm.). It was developed further by Cornish master builder William Peters in the early 19th century at Polvarth, St Mawes. Peters made almost all the historic gigs preserved on Scilly (mostly taken to Newquay and restored c.1954), and many more formerly kept on the islands. He also supplied to Newquay in 1838 the gig _Treffry_, whose lines are used as the model for racing gigs today (**Photo 1**).
 
 ![A 1956 photograph of Newquay Harbour showing several wooden pilot gigs on the sandy shore and in the water. In the foreground, the yellow gig Slippen, the green gig Bonnet, the white and blue gig Trefrry, the orange and white gig Golden Eagle, and the red gig Newquay are lined up. More small boats and sailing vessels float in the harbour, with a stone harbour wall, rocky cliffs, and houses overlooking the scene under a bright blue sky.](website-images/Gig-building/1-gigs-newquay-harbour-1956-trimmed.jpg)
 
@@ -11,7 +11,7 @@ _1: Historic gigs from Scilly, taken to Cornwall in 1954; Slippen and Bonnet ori
 
 Pilot gigs were also built on St Mary’s; in addition to sailing ships, dozens of which were commissioned and operated by owners on Scilly in trading ventures around the world in the mid-19th century. One shipyard, taken on in 1875 by William Gluyas (1841-1923) from his uncle William Mumford, lay above Town Beach opposite his uncle’s Lyonesse House on Lower Strand.
 
-Traces of Gluyas’ yard are visible at Holgates (named after a later hotel that once stood here) where gigs are stored annually for the racing championships. An 1862 map shows the wall against an alley, at the townward end of Holgates Green, that once formed one side of shed in the yard (**Photo 2**). Gluyas built a gig in 1877 for St Mary’s coastguards, the _Klondyke_, conserved in Scilly’s Museum collection (**Photo 3**). Plans for restoration and display of Klondyke as part of a renewed museum and cultural centre are now in development.
+Traces of Gluyas’ yard are visible at Holgates (named after a later hotel that once stood here) where gigs are stored annually for the racing championships. An 1862 map shows the wall against an alley, at the townward end of Holgates Green, that once formed one side of shed in the yard (**Photo 2**). Gluyas built a gig in 1877, sold to St Agnes' pilots and named the _Klondyke_ in 1897, conserved in Scilly’s Museum collection (**Photo 3**). Plans for restoration and display of Klondyke as part of a renewed museum and cultural centre are now in development.
 
 ![Granite walls and steps that were once part of a gig shed](website-images/Gig-building/2-w-side-of-holgates-may-2024.jpg)
 
@@ -21,7 +21,7 @@ _2: Edge of the old boatyard of William Gluyas, builder of the gig Klondyke, now
 
 _3: The 1877 gig Klondyke in Scilly’s old Museum. Alfred Jenkins noted her sails were from Czar._
 
-_Klondyke_ was sold to St Agnes for lighthouse tendering work. Sheds where she was kept at different times survive as walled platforms, at Porth Conger. They lie either side of the road, downhill from the present _Shah_ shed (thanks to Marigold Hicks for information) (**Photo 4**).
+_Klondyke_ was used for lighthouse tendering work, based on St Agnes. Sheds where she was kept at different times survive as walled platforms, at Porth Conger. They lie either side of the road, downhill from the present _Shah_ shed (thanks to Marigold Hicks for information) (**Photo 4**).
 
 ![Sites of sheds, now grassy roofless walled platforms, once used for the Klondyke, now occupied by picnic tables. The granite shed now housing the gig Shah stands above; a slipway slants down left of it.](website-images/Gig-building/4-perconger-3-sheds.jpg)
 
@@ -63,13 +63,13 @@ The virtual 3D models of gig components presented here were made courtesy of And
 
 Planks are made of narrow-leaf elm, making them both durable and flexible, strong and light. They are only ¼ inch thick! This allowed gigs to be carried when needed – it could be a 100m haul up from the sea to the gig sheds at low water, as the project surveys show.
 
-_Nornour_ was kept at Pendrathen, before moving to the new, traditional style sheds at Porth Mellon. Pendrathen was used for pilotage, and transport between the islands, from c.1759. Old gigs kept there included _Boot_, _Chance_, _Railway,_ and _Whaler,_ and the _Bee_ that ended up on St Agnes. Remains of their houses include Norman’s Shed, a gig shed rebuilt slightly shorter, leaving part of the old wall protruding behind it.
+_Nornour_ was kept at Pendrathen, before moving to the new, traditional style sheds at Porth Mellon. Pendrathen was used for pilotage, and transport between the islands, from c.1759. Old gigs kept there included _Boot_, _Chance_, _Railway_, and _Whaler_, and the _Bee_ that ended up on St Agnes. Remains of their houses include Norman’s Shed, a gig shed rebuilt slightly shorter, leaving part of the old wall protruding behind it.
 
 [View the 3D model on Sketchfab](https://sketchfab.com/3d-models/nailing-model-from-the-building-of-nornour-c88acdf0ba1143f58a6e00b082063f04)
 
 [![Bow rib from the Bonnet](website-images/Gig-building/10-bow-rib-from-1830-gig-bonnet.jpg)](https://sketchfab.com/3d-models/bow-rib-from-the-1830-pilot-gig-bonnet-0b159471723f433c9dc42d60b71ad928)
 
-**Bow rib from 1830 gig** **_Bonnet_**, probably from before she went to Cornwall _c_1954 (Andy Hicks, pers comm.). Ribs were traditionally of oak, so in the bow they could be as thin as this one, 1/2 by 3/8 inch. Layers of paint indicate long use; pilot gigs could be black, or coloured.
+**Bow rib from 1830 gig** **_Bonnet_**, probably from before she went to Cornwall c.1954 (Andy Hicks, pers comm.). Ribs were traditionally of oak, so in the bow they could be as thin as this one, 1/2 by 3/8 inch. Layers of paint indicate long use; pilot gigs could be black, or coloured.
 
 _Bonnet_ was kept at Par Beach (Higher Town Bay), St Martin’s, near the sheds there now. She moved to Tresco, then Bryher, where she was kept at Great Porth in the roof of the _Golden Eagle_ shed now a studio, then back to Tresco (Richard Jenkins, pers. comm.).
 
