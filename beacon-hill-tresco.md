@@ -33,7 +33,7 @@ The late 18th century account says the site had ruins of a round tower. This cou
 
 ![Round-walled stone structure with the remains of white paint on the stonework. Ivy grows up the side. It is situated to the left of a granite building.](website-images/Tresco-Beacon-Hill/4-dodman-lookout.jpg)
 
-_4: Lookout used later by the coastguard, at the 1794 flag signal station on Dodman Point, one of a chain running along the south coast. Beyond the gap between the lookout and watch house is one of the stones with iron loops for stays holding a signal pole in the centre of the plot. The station on St Martin’s Chapel Down, too distant to link directly to the chain, signalled to ships. The pilots of Scilly served the information networks, taking news and mails to and from ships._
+_4: Lookout used later by the coastguard, at the 1794 flag signal station on Dodman Point, one of a chain running along the south coast. In the foreground, left, and also beyond the gap between the lookout and watch house, are some of the stones with iron loops for stays holding a signal pole in the centre of the plot. The station on St Martin’s Chapel Down, too distant to link directly to the chain, signalled to ships. The pilots of Scilly served the information networks, taking news and mails to and from ships._
 
 Pilots using the Beacon Hill lookout may have worked out of New Grimsby or Old Grimsby to either side. The 1887 map shows traces of an old route to Point, New Grimsby. Two paved slipways remain there (**Photo 5**), at the site of the gig sheds seen in the 1862 painting on the website front page. The _Zelda_ of 1874 was once kept here (Richard Jenkins, Bryher, pers. comm.). Gig crews elsewhere on Tresco could use carns to keep watch and signal, as no doubt at Carn Near where the gigs _Gleaner_ and _Longkeel_ were kept (Joby Newton, pers. comm.) (**Photo 6**).
 
@@ -43,7 +43,7 @@ _5: Looking down the slab slipway at Point, New Grimsby. The slipway, made doubl
 
 ![A fern-covered hillside with a granite outcrop called a 'carn' at the summit. A path runs across the scene towards the bottom of the photo. The coastline and sea are visible towards the top left.](website-images/Tresco-Beacon-Hill/6-carn-near-14-may-2024.jpg)
 
-_6: Carn Near at the other end of Tresco. A hollow in the ferns left of centre, slanting down to the track to Bathinghouse Porth, marks a ruined shed. The site was used to house the gigs _Gleaner_ and _Longkeel_ (Joby Newton, pers. comm.) and before that a Tresco Estate boat, _Normandy_._
+_6: Carn Near at the other end of Tresco. A hollow in the ferns left of centre, slanting down to the track to Bathinghouse Porth, marks a ruined shed. The site was used to house the gigs Gleaner and Longkeel (Joby Newton, pers. comm.) and before that a Tresco Estate boat, Normandy._
 
 The Beacon Hill scanning was carried out courtesy of landholders the Tresco Estate.
 
