@@ -11,7 +11,7 @@ The sheds are early in style. Their stonework is barely coursed, and the walls b
 
 _1: Plan of New Quay, with gig sheds clustered around the head of the slipway to the Lake._
 
-In contrast, the small, high gable end windows, more irregular and made of smaller slabs, are meant to give ventilation and a bit of light, rather than to be seen (**Photos 2** and **3**). The floors are sloping, dug into the slope as necessary to fit the sheds into the coastal slope. A few sheds seem to have rough paving, and in some, the inner end walls incorporate outcropping bedrock.
+In contrast, the small, high gable end windows, more irregular and made of smaller slabs, are meant to give ventilation and a bit of light, rather than to be seen (**Photos 2** and **3**). The floors are sloping, dug into the ground as necessary to fit the sheds into the coastal slope. A few sheds seem to have rough paving, and in some, the inner end walls incorporate outcropping bedrock.
 
 ![A dry-stone wall built from large, irregular granite blocks, with a tall vertical stone forming the side of a doorway. Vegetation is growing around the structure.](website-images/St-Marys-New-Quay/2-se-shed-doorway-new-quay-jul-2024.jpg)
 
@@ -65,7 +65,7 @@ The _Porths and Gigs_ fieldwork here was carried out courtesy of landowners the 
 
 **New Quay’s ‘Lake’**, cutting through a ‘brow’ of coastal boulders. The name Lake appears on a 1792 map for another gig trackway, at Perconger (Porth Conger) on St Agnes ─ later adopted to serve the coastguard station now the _Turk’s Head_ pub.
 
-This Lidar (light detection) model, like the site plan, was made at extreme low tide to capture the full extent of the tidal remains. It shows how the Lake slants west through the brow before turning out, so breakers could not sweep straight up it; giving it a J-shaped plan. The base of bedrock, with the paved slipway above, helped crews carry gigs to and from lower seas even by night.
+This Lidar (light detection) model, like the site plan, was made at extreme low tide to capture the full extent of the tidal remains. It shows how the Lake slants west through the brow before turning out, so breakers could not sweep straight up it; giving it a J-shaped plan. At low tide crews would have carried the gigs over the base of bedrock as well as the paved slipway above.
 
 Pilots also put out from sandy beaches ─ like nearby Pelistry (_Porth Lister_ or ‘Boat Porth’ in Cornish) where the Morris, Tregear and Williams families kept a shared gig. Tidal ways allowed use of strategic sites otherwise bound by rocks. They even offered greater protection against raiding from the sea, in the early days of pilotage, as their use was dependant on local knowledge.
 
