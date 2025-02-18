@@ -4,6 +4,8 @@
 
 Welcome to this exploration of the archaeology of pilot gigs on Scilly, with results of fieldwork on all the main islands in 2024 (**Photo 1**), including 3D models and plans made at extra-low tide. 
 
+Alongside this website, the project has produced a report, freely available to download here **LINK**. The report presents the results you see in this website, plus, our full investigation and mapping of gig shed archaeology, all around the islands.
+
 ![Map of Scilly, with locations of main sites surveyed and scanned in the Porths and Gigs project.](website-images/Project-Page/1-location-map-for-website.jpg)
 
 *1: Map of Scilly, with locations of main sites surveyed and scanned in the Porths and Gigs project.*
