@@ -75,7 +75,7 @@ Archaeology of the previous phases of the site may lie under the bushes and/or u
 
 Borlase, W, 1756. _Observations on the Ancient and Present State of the Islands of Scilly_. Facsimile edition 1966. Frank Graham: Newcastle
 
-Gibson and Sons, _c_1932 (undated). _The Isles of Scilly_. Gibson & Sons: Isles of Scilly
+Gibson and Sons, c.1932 (undated). _The Isles of Scilly_. Gibson & Sons: Isles of Scilly
 
 Troutbeck, J, 1796. _A Survey of the Ancient and Present State of the Scilly Islands_: Sherborne
 
