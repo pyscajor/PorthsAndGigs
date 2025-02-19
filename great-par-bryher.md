@@ -23,7 +23,7 @@ The old _Czar_ shed is now a Scheduled Monument. This low site is especially vul
 
 ![Archaeologists working near the shoreline, measuring and recording an archaeological site with a red-and-white survey pole and tape in the foreground. The landscape consists of grassy terrain, rocky outcrops, and calm tidal waters with small islands in the distance.](website-images/Bryher-Czar-Great-Porth/4-czar-shed-with-baseline-measuring-off-in-progress.jpg)
 
-_4: Surveying the _Czar_ shed site, by taking measurements offset at right angles from a baseline tape, a method allowing rapid accurate survey of smaller sites with minimal equipment._
+_4: Surveying the Czar shed site, by taking measurements offset at right angles from a baseline tape, a method allowing rapid accurate survey of smaller sites with minimal equipment._
 
 ![Site plan](website-images/Bryher-Czar-Great-Porth/5-czar-shed-bryher-plan-drawing.jpg)
 
