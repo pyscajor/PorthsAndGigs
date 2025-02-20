@@ -29,7 +29,7 @@ _3: Earthwork interpreted as a gig shed site at Innisidgen, with banks on the li
 
 ![A site map of Innisidgen, St Mary’s, Isles of Scilly, showing boulder beaches, stone features, and an iron pin, with blue arrows marking key locations.](website-images/St-Marys-Innisidgen/4-innisidgen-inter-tidal-zone.jpg)
 
-_4: Plan of Innisidgen. The gig shed with its slipway, lower right, was served by an inter-tidal way 100m long (marked by the blue arrows), extended by branches for kelping to either side. (Modern signs to nearby prehistoric entrance graves, marked on the plan, can help to locate the shed site especially in summer, when bracken grows over the earthworks.)_
+_4: Plan of Innisidgen. The gig shed with its slipway, lower right, was served by an inter-tidal way 100m long (shaded in blue), extended by branches for kelping to either side. (Modern signs to nearby prehistoric entrance graves, marked on the plan, can help to locate the shed site especially in summer, when bracken grows over the earthworks.)_
 
 This is a sloping hollow, the size of a gig, with low banks where its walls stood, and fallen slabs likely to mark its doorway in front (**Photo 5**). This may be one of the earliest gig sheds still visible and undisturbed. It may have fallen in, rather than being dismantled, making its interior less regular in plan, seemingly well before 1887 as the OS did not see it. Innisidgen was a strategic site, on the east approach to Scilly and facing the off-islands.
 
