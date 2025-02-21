@@ -4,3 +4,5 @@ Website and data for the Cornwall Archaeological Unit project *Porths and Gigs o
 This site has been designed for longevity and the design is intentionally simple. It is written using Markdown syntax, and converted to HTML via GitHub Pages.
 
 The 3D directory contains downloadable *.obj* files of many of the sites surveyed by this project.
+
+The URL for the web version of the site is: [https://pyscajor.github.io/PorthsAndGigs/](https://pyscajor.github.io/PorthsAndGigs/)
