@@ -1,2 +1,8 @@
 name: Porths and Gigs of the Isles of Scilly
 title: Porths and Gigs of the Isles of Scilly
+
+
+style: |
+  a {
+    text-decoration: underline;
+  }
