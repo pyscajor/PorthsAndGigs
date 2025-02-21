@@ -21,6 +21,8 @@ Scilly’s five main islands hold traces of old gig sheds, some dating back to t
 
 Welcome to this exploration of the archaeology of pilot gigs on Scilly, featuring the results of fieldwork conducted in 2024 across all the main islands. This work includes 3D models and plans created at extra-low tide, offering fresh insights into these historic sites. Led by Cornwall Archaeological Unit (CAU), with invaluable support from local groups and individuals, the Porths and Gigs project is a Monument Management Scheme for Historic England and other partners (see Acknowledgements). The project aims to add to recording and appreciation of Scheduled Monuments and other gig-related archaeology, particularly those on vulnerable coastal sites affected by erosion and rising sea levels.
 
+The [project report is available to download](project-report/Porths-and-Gigs-of-the-Isles-of-Scilly-CAU-Report-2024R037.pdf) (PDF, 25MB).
+
 ## Acknowledgements and thanks to Project Partners
 The project was by [Cornwall Archaeological Unit](http://cau.org.uk) (CAU), Cornwall Council. The CAU team were Cathy Parkes (project lead), Mark Bowden (survey) and [Tom Goskar](https://tom.goskar.com/) (scanning and website).
 
