@@ -23,7 +23,7 @@ The Rock will have been a natural lookout and gathering place from ancient times
 
 ![View from the top of Signal Rock looking down over stone cottages, hedgerows, and a winding path. In the background are palm trees, a sandy beach, blue sea, and small islands stretch out under a bright sky.](website-images/St-Martins-Signal-Rock/2-view-from-signal-rock-may-2024.jpg)
 
-_2: View from Signal Rock. The Daymark of 1683 stands on the skyline, above the chimney of one of the houses set back from the green, Hillside (mapped in 1792). It was given stripes in 1830 after a wreck when it was tragically mistaken for the contemporary St Agnes’ lighthouse._
+_2: View from Signal Rock. The Daymark of 1687 stands on the skyline, above the chimney of one of the houses set back from the green, Hillside (mapped in 1792). It was given stripes in 1830 after a wreck when it was tragically mistaken for the contemporary St Agnes’ lighthouse._
 
 The panorama from here takes in Par Beach (Higher Town Bay) with the main modern quay of St Martin’s, and the coastal slope just above Old Quay, both formerly bases for pilotage (**Photo 3**).
 
